@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/dashboard.css" rel="stylesheet" />
+  <link href="css/main.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/btn.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <title>Sistema de Denuncias - PDN</title>
+</head>
+
+<body class="bg-light">
+  <header class="navbar navbar-expand-md bd-navbar encabezado sticky-top bg-dark flex-wrap flex-lg-wrap"
+    data-bs-theme="dark">
+    <nav class="container-fluid">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler-PDN"
+        aria-controls="navbarToggler-PDN" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <a href="https://www.plataformadigitalnacional.org/"><img class="logo" src="imgs/logo_pdn-transparente.svg"
+          alt="Logo" class="d-inline-block align-text-top" /></a>
+      <div class="collapse navbar-collapse justify-content-between" id="navbarToggler-PDN">
+        <a class="navbar-brand mb-0 h1" href="#">
+          Sistema de Denuncias públicas de faltas adminstrativas y hechos de corrupción
+        </a>
+
+      </div>
+    </nav>
+  </header>
+  <section id="seguimiento" class="" style="background-color: #f8f9fa;">
+
+    <div class="container py-5 h-100">
+      <div class="row d-flex justify-content-center align-items-center h-100">
+        <div class="col-md-10">
+          <div class="card rounded-3 text-black">
+            <div class="row g-0">
+              <div class="col-lg-7 ">
+                <div class="card-body">
+                  <div class="text-center">
+                  </div>
+                  <form name="ingreso" method="post" action="" onSubmit="">
+                    <div class="form-outline mb-4">
+                    </div>
+                    <div class="text-center grid">
+                      <figure onclick="denuncia()">
+                        <div class="head">
+                          <div class="detalle">
+                            <p>Quiero presentar una</p>
+                            <h1>Denuncia</h1>
+                          </div>
+                        </div>
+                        <img src="imgs/iconos/ico-denuncia.svg" alt="img01">
+                      </figure>
+                    </div>
+
+                  </form>
+                </div>
+              </div>
+              <div class="col-lg-5 d-flex align-items-center justify-content-start px-5 py-5">
+                <div><h5>Selecciona una entidad federativa</h5></div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col">
+                <table class="table">
+                  <thead>
+                    <tr>
+                      <th></th>
+                      <th></th>
+                      <th></th>
+                      <th></th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td><a href="entes.php?id_edo=1">AGUASCALIENTES</a></td>
+                      <td><a href="entes.php?id_edo=2">BAJA CALIFORNIA</a></td>
+                      <td><a href="entes.php?id_edo=3">BAJA CALIFORNIA SUR</a></td>
+                      <td><a href="entes.php?id_edo=4">CAMPECHE</a></td>
+                    </tr>
+                    <tr>
+                      <td><a href="entes.php?id_edo=5">COAHUILA</a></td>
+                      <td><a href="entes.php?id_edo=6">COLIMA</a></td>
+                      <td><a href="entes.php?id_edo=7">CHIAPAS</a></td>
+                      <td><a href="entes.php?id_edo=8">CHIHUAHUA</a></td>
+                    </tr>
+                    <tr>
+                      <td><a href="entes.php?id_edo=9">CIUDAD DE MÉXICO</a></td>
+                      <td><a href="entes.php?id_edo=10">DURANGO</a></td>
+                      <td><a href="entes.php?id_edo=11">GUANAJUATO</a></td>
+                      <td><a href="entes.php?id_edo=12">GUERRERO</a></td>
+                    </tr>
+                    <tr>
+                      <td><a href="entes.php?id_edo=13">HIDALGO</a></td>
+                      <td><a href="entes.php?id_edo=14">JALISCO</a></td>
+                      <td><a href="entes.php?id_edo=15">EDO. DE MÉXICO</a></td>
+                      <td><a href="entes.php?id_edo=16">MICHOACÁN</a></td>
+                    </tr>
+                    <tr>
+                      <td><a href="entes.php?id_edo=17">MORELOS</a></td>
+                      <td><a href="entes.php?id_edo=18">NAYARIT</a></td>
+                      <td><a href="entes.php?id_edo=19">NUEVO LEÓN</a></td>
+                      <td><a href="entes.php?id_edo=20">OAXACA</a></td>
+                    </tr>
+                    <tr>
+                      <td><a href="entes.php?id_edo=21">PUEBLA</a></td>
+                      <td><a href="entes.php?id_edo=22">QUERÉTARO</a></td>
+                      <td><a href="entes.php?id_edo=23">QUINTANA ROO</a></td>
+                      <td><a href="entes.php?id_edo=24">SAN LUIS POTOSÍ</a></td>
+                    </tr>
+                    <tr>
+                      <td><a href="entes.php?id_edo=25">SINALOA</a></td>
+                      <td><a href="entes.php?id_edo=26">SONORA</a></td>
+                      <td><a href="entes.php?id_edo=27">TABASCO</a></td>
+                      <td><a href="entes.php?id_edo=28">TAMAULIPAS</a></td>
+                    </tr>
+                    <tr>
+                      <td><a href="entes.php?id_edo=29">TLAXCALA</a></td>
+                      <td><a href="entes.php?id_edo=30">VERACRUZ</a></td>
+                      <td><a href="entes.php?id_edo=31">YUCATÁN</a></td>
+                      <td><a href="entes.php?id_edo=32">ZACATECAS</a></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+
+</html>

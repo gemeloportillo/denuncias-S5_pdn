@@ -19,6 +19,15 @@
   background: #fff;
 }
 
+a {
+  color: #6a4264;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #6a4264;
+  text-decoration: underline;
+}
 
 
 
