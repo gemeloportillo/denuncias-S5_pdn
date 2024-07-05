@@ -1,0 +1,51 @@
+.gradient-custom-2 {
+  /* fallback for old browsers */
+  background: rgb(52, 201, 178);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, #34c9b2 7%, #9e57e0 63%, #6d4061 95%);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: transparent linear-gradient(230deg, rgba(52, 201, 178, 1) 7%, rgba(158, 87, 224, 1) 63%, rgba(109, 64, 97, 1) 95%) 0% 0% no-repeat padding-box;
+}
+
+.divimg {
+  padding: 1rem 5rem;
+}
+
+.card {
+  background: #f2f9f8;
+}
+
+#home .card {
+  background: #fff;
+}
+
+
+
+
+.btn-primary {
+  background: #34c9b2;
+  border: 1px solid #34c9b2;
+}
+.btn-primary:hover  {
+  background: #289887;
+  border: 1px solid #289887;
+}
+
+.btn-check:checked+.btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check)+.btn:active {
+  background: #289887;
+  border: 1px solid #289887;
+}
+
+
+@media (min-width: 768px) {
+  .gradient-form {
+    height: 100vh !important;
+  }
+}
+
+@media (min-width: 769px) {
+  .gradient-custom-2 {
+    border-top-right-radius: .3rem;
+    border-bottom-right-radius: .3rem;
+  }
+}

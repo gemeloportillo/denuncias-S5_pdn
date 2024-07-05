@@ -1,0 +1,183 @@
+
+/* ESTILOS BARRA NAVEGACIÓN */
+
+.encabezado {
+  /* fallback for old browsers */
+  background: rgb(52, 201, 178);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, #34c9b2 7%, #9e57e0 63%, #6d4061 95%);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: transparent linear-gradient(230deg, rgba(52, 201, 178, 1) 7%, rgba(158, 87, 224, 1) 63%, rgba(109, 64, 97, 1) 95%) 0% 0% no-repeat padding-box;
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.encabezado .nav-menu {
+  font-size: 1em;
+  border: 1px solid #fff;
+  background: white;
+  margin: 0px;
+  border-radius: 75px;
+  padding: 0px 30px;
+}
+
+.encabezado .nav-menu ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.encabezado .nav-menu li {
+  display: flex;
+  align-items: center;
+  padding: 0px 7px;
+}
+
+.encabezado>div {
+  padding: 7px 12px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.encabezado .nav-menu a {
+  text-decoration: none;
+  color: #55575a;
+  display: flex;
+  align-items: center;
+}
+.encabezado .nav-menu a:hover {
+  text-decoration: underline;
+}
+
+.encabezado nav img {
+  height: 30px;
+  margin: 8px 3px 8px 3px;
+}
+
+.encabezado .nav-menu li p {
+  display: contents;
+  
+}
+
+.encabezado .nav-menu p {
+  font-size: 1em;
+  display: inherit;
+  font-weight: normal;
+}
+
+.encabezado .navbar-brand img {
+  padding: 0 20px;
+}
+
+.encabezado p {
+  margin: 0;
+  font-size: 16px;
+}
+
+.encabezado nav img.logo {
+  height: 30px;
+  margin-right: 1em;
+}
+
+.scroll {
+  max-height: 800px;
+  overflow: auto;
+}
+
+.encabezado .nav-menu:hover {
+  background: azure;
+}
+
+
+
+
+/* TOOLTIP 
+
+.tooltip2 {
+  position: relative;
+  background: green;
+  padding: 5px 12px;
+  margin: 5px;
+  font-size: 15px;
+  border-radius: 100%;
+  color: #fff;
+}
+
+.tooltip2:before,
+.tooltip2:after {
+  position: absolute;
+  content: "";
+  opacity: 0;
+  transition: all 0.4s ease;
+}
+
+.tooltip2:before {
+  border-width: 10px 8px 0 8px;
+  border-style: solid;
+  border-color: green transparent transparent transparent;
+  top: -15px;
+  transform: translateY(20px);
+}
+
+.tooltip2:after {
+  content: attr(data-tooltip);
+  background: green;
+  width: 160px;
+  height: 40px;
+  font-size: 13px;
+  font-weight: 300;
+  top: -75px;
+  left: -10px;
+  padding: 10px;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  transform: translateY(20px);
+}
+
+.tooltip2:hover::before,
+.tooltip2:hover::after {
+  opacity: 1;
+  transform: translateY(-2px);
+}
+
+@keyframes shake {
+  0% {
+    transform: rotate(2deg);
+  }
+  50% {
+    transform: rotate(-3deg);
+  }
+  70% {
+    transform: rotate(3deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+#anim:hover {
+  animation: shake 500ms ease-in-out forwards;
+}
+*/
+
+
+.custom-tooltip {
+  --bs-tooltip-bg: #f230b9;
+}
+
+
+
+
+.modal-header {
+  background: transparent linear-gradient(230deg, #1C7CBF 0%, #1C7CBF 4%, #9F58E2 49%, #6D4061 100%) 0% 0% no-repeat padding-box;
+  color: white;
+}
