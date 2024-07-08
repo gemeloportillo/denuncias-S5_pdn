@@ -38,6 +38,7 @@ a:hover {
 .btn-primary:hover  {
   background: #289887;
   border: 1px solid #289887;
+  text-decoration: none;
 }
 
 .btn-check:checked+.btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check)+.btn:active {
