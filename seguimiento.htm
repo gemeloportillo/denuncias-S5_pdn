@@ -37,35 +37,29 @@
         <div class="col-md-10">
           <div class="card rounded-3 text-black">
             <div class="row g-0">
-              <div class="col-lg-7 ">
-                <div class="card-body">
-                  <div class="text-center">
+              <div class="card-header d-flex  justify-content-between">
+                <div class="titulo d-flex align-items-center">
+                  <div class="btn-menu">
+                    <img src="imgs/iconos/ico-seguimiento.svg" alt="img01">
                   </div>
-                  <form name="ingreso" method="post" action="" onSubmit="">
-                    <div class="form-outline mb-4">
-                      <a href="/index.htm" class="btn btn-primary">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-square-fill" viewBox="0 0 16 16">
-          <path d="M16 14a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2zm-4.5-6.5H5.707l2.147-2.146a.5.5 0 1 0-.708-.708l-3 3a.5.5 0 0 0 0 .708l3 3a.5.5 0 0 0 .708-.708L5.707 8.5H11.5a.5.5 0 0 0 0-1"></path>
-        </svg>
-                        Regresar
-      </a>
-                    </div>
-                    <div class="text-center grid">
-                      <figure id="btn-seguimiento">
-                        <div class="head">
-                          <div class="detalle">
-                            <p>Quiero dar</p>
-                            <h1>Seguimiento</h1>
-                          </div>
-                        </div>
-                        <img src="imgs/iconos/ico-seguimiento.svg" alt="img01">
-                      </figure>
-                    </div>
-
-                  </form>
+                  <h4 class="px-2 mb-0">Quiero dar seguimiento a una denuncia</h4>
                 </div>
+
+                <div class="back">
+                <a href="/index.htm" class="btn btn-primary">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#fff"
+                    class="bi bi-arrow-left-square-fill" viewBox="0 0 16 16">
+                    <path
+                      d="M16 14a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2zm-4.5-6.5H5.707l2.147-2.146a.5.5 0 1 0-.708-.708l-3 3a.5.5 0 0 0 0 .708l3 3a.5.5 0 0 0 .708-.708L5.707 8.5H11.5a.5.5 0 0 0 0-1">
+                    </path>
+                  </svg>
+                  Regresar
+                </a>
               </div>
-              <div class="col-lg-5 d-flex align-items-center justify-content-center px-5 py-5">
+              </div>
+              <div class="col-lg-12 ">
+                <div class="card-body">
+                 <div class="col-lg-12 d-flex align-items-center justify-content-center px-5 py-5">
                 <form id="seuir_denuncia" name="seuir_denuncia" method="post" action="seuir_denuncia.php"
                   accept-charset="UTF-8">
                   <p>Ingrese el número de folio de la denuncia.</p>
@@ -74,6 +68,8 @@
                   
                 </form>
               </div>
+              </div>
+              
             </div>
           </div>
         </div>

@@ -47,6 +47,31 @@ a:hover {
 }
 
 
+svg path:hover {
+  fill: #b981ac;
+  transition: transform 0.5s;
+  cursor: pointer;
+
+}
+
+svg path#ico-chih {
+  border: 1px solid #6a4264;
+}
+
+.btn-menu {
+  height: 39px;
+  width: 58px;
+  margin-left: 20px;
+  border: 1px solid #34c9b2;
+  border-radius: .375rem;
+}
+
+.btn-menu img {
+  width: 100%;
+  padding: 5px 5px;
+}
+
+
 @media (min-width: 768px) {
   .gradient-form {
     height: 100vh !important;
