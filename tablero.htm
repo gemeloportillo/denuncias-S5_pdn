@@ -1,83 +1,148 @@
 <!DOCTYPE html>
 <html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link href="css/dashboard.css" rel="stylesheet" />
+    <link href="css/main.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/btn.css" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <title>Sistema de Denuncias - PDN</title>
+  </head>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/dashboard.css" rel="stylesheet" />
-  <link href="css/main.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/btn.css">
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-  <title>Sistema de Denuncias - PDN</title>
-</head>
-
-<body class="bg-light">
-  <header class="navbar navbar-expand-md bd-navbar encabezado sticky-top bg-dark flex-wrap flex-lg-wrap"
-    data-bs-theme="dark">
-    <nav class="container-fluid">
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler-PDN"
-        aria-controls="navbarToggler-PDN" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <a href="https://www.plataformadigitalnacional.org/"><img class="logo" src="imgs/logo_pdn-transparente.svg"
-          alt="Logo" class="d-inline-block align-text-top" /></a>
-      <div class="collapse navbar-collapse justify-content-between" id="navbarToggler-PDN">
-        <a class="navbar-brand mb-0 h1" href="#">
-          Sistema de Denuncias públicas de faltas adminstrativas y hechos de corrupción
-        </a>
-
-      </div>
-    </nav>
-  </header>
-  <section id="seguimiento" class="" style="background-color: #f8f9fa;">
-
-    <div class="container-fluid py-5 h-100">
-      <div class="row d-flex justify-content-center align-items-center h-100">
-        <div class="col-xl-12">
-          <div class="card rounded-3 text-black">
-            <div class="row g-0">
-              <div class="card-header d-flex  justify-content-between">
-                <div class="titulo d-flex align-items-center">
-                  <div class="btn-menu">
-                    <img src="imgs/iconos/ico-denuncia.svg" alt="img01">
-                  </div>
-                  <h4 class="px-2 mb-0">Quiero presentar una denuncia</h4>
-                </div>
-
-                <div class="back">
-                  <a href="/index.htm" class="btn btn-primary">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#fff"
-                      class="bi bi-arrow-left-square-fill" viewBox="0 0 16 16">
-                      <path
-                        d="M16 14a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2zm-4.5-6.5H5.707l2.147-2.146a.5.5 0 1 0-.708-.708l-3 3a.5.5 0 0 0 0 .708l3 3a.5.5 0 0 0 .708-.708L5.707 8.5H11.5a.5.5 0 0 0 0-1">
-                      </path>
-                    </svg>
-                    Regresar
-                  </a>
-                </div>
+  <body class="bg-light">
+    <header
+      class="navbar navbar-expand-md bd-navbar encabezado sticky-top bg-dark flex-wrap flex-lg-wrap"
+      data-bs-theme="dark"
+    >
+      <nav class="container-fluid">
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarToggler-PDN"
+          aria-controls="navbarToggler-PDN"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <a href="https://www.plataformadigitalnacional.org/"
+          ><img
+            class="logo"
+            src="imgs/logo_pdn-transparente.svg"
+            alt="Logo"
+            class="d-inline-block align-text-top"
+        /></a>
+        <div
+          class="collapse navbar-collapse justify-content-between"
+          id="navbarToggler-PDN"
+        >
+          <a class="navbar-brand mb-0 h1" href="#">
+            Sistema de Denuncias públicas de faltas adminstrativas y hechos de
+            corrupción
+          </a>
+        </div>
+      </nav>
+    </header>
+    <section id="tablero" class="" style="background-color: #f8f9fa">
+      <div class="container-fluid py-5 h-100">
+        <div class="card text-center">
+          <div class="card-header d-inline-flex justify-content-between">
+            <div class="titulo d-flex align-items-center">
+              <div class="btn-menu">
+                <img src="imgs/iconos/ico-tablero.svg" alt="img01" />
               </div>
-
-              <div class="col-lg-6 ">
-
-                <div class="card-body">
-                  <div class="text-center">
-                  </div>
-                  <form name="ingreso" method="post" action="" onSubmit="">
-
-                    <div class="text-center grid">
-
-                    </div>
-
-                  </form>
-                </div>
-              </div>
-              <div class="col-lg-6 d-flex align-items-center justify-content-center px-5 pt-4 pb-3">
-                
-              </div>
+              <h4 class="px-2 mb-0">Tablero estadístico</h4>
             </div>
-            <div class="row mapa">
-              <div class="col-6">
+
+            <div class="back">
+              <a href="/index.htm" class="btn btn-primary">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  fill="#fff"
+                  class="bi bi-arrow-left-square-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    d="M16 14a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2zm-4.5-6.5H5.707l2.147-2.146a.5.5 0 1 0-.708-.708l-3 3a.5.5 0 0 0 0 .708l3 3a.5.5 0 0 0 .708-.708L5.707 8.5H11.5a.5.5 0 0 0 0-1"
+                  ></path>
+                </svg>
+                Regresar
+              </a>
+            </div>
+          </div>
+          <div class="card-body">
+            <div class="row estadistica tabla">
+              <div class="col-5 resultado-dinamico">
+                <h2 class="heading-2">
+                  <span class="bottom-line state_name"><a href="https://www.educa.mx/sna/s5/entes.php?id_edo=8" class="estado" data-estado="Chihuahua"><span></span>Chihuahua</a></span>
+                  
+                </h2>
+                <ul class="">
+                  <li class="ref-module-default">
+                    <span class="title">DENUNCIAS</span>
+                    <span class="result ref-font-color total_bribe_reports"
+                      >311</span
+                    >
+                  </li>
+                  <li class="ref-module-default">
+                    <span class="title">MOTIVOS</span>
+                    <span class="result ref-font-color total_bribe_amount"
+                      >950.20K</span
+                    >
+                  </li>
+                  <li class="ref-module-paid-bribe">
+                    <span class="title">NO GRAVES</span>
+                    <span class="result ref-font-color bribes_paid_cnt"
+                      >71</span
+                    >
+                  </li>
+                  <li class="ref-module-bribe-fighter">
+                    <span class="title">FALTAS GRAVES</span>
+                    <span class="result ref-font-color bribes_nt_paid_cnt"
+                      >4</span
+                    >
+                  </li>
+                  <li class="ref-module-honest-officer">
+                    <span class="title">HECHOS DE CORRUPCIÓN</span>
+                    <span class="result ref-font-color bribes_nt_asked_cnt"
+                      >0</span
+                    >
+                  </li>
+                  <li class="ref-module-hotline-officer">
+                    <span class="title">PUBLICADAS</span>
+                    <span class="result ref-font-color bribes_hotline_cnt"
+                      >236</span
+                    >
+                  </li>
+                  <li class="ref-module-hotline-officer">
+                    <span class="title">EN PROCESO</span>
+                    <span class="result ref-font-color bribes_hotline_cnt"
+                      >236</span
+                    >
+                  </li>
+                  <li class="ref-module-hotline-officer">
+                    <span class="title">VISTAS</span>
+                    <span class="result ref-font-color bribes_hotline_cnt"
+                      >236</span
+                    >
+                  </li>
+                  <li class="ref-module-hotline-officer">
+                    <span class="title">RESUELTAS</span>
+                    <span class="result ref-font-color bribes_hotline_cnt"
+                      >236</span
+                    >
+                  </li>
+                </ul>
+              </div>
+              <div class="col-7 mapa-dinamico">
                 <svg id="mapasvg" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 848 560">
                   <defs>
                     <style>
@@ -250,105 +315,43 @@
                   </a>
                 </svg>
               </div>
-              <div class="col-6 p-0">
-                <div>
-                  <h5>Selecciona una entidad federativa</h5>
-                </div>
-                  <div class="row tabla">
-                    <div class="col-xl-3 p-0">
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=1" class="estado" data-estado="aguascalientes"><span></span>Aguascalientes</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=2" class="estado" data-estado="Baja California"><span></span>Baja California</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=3" class="estado" data-estado="Baja California Sur"><span></span>Baja California Sur</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=4" class="estado" data-estado="Campeche"><span></span>Campeche</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=5" class="estado" data-estado="Coahuila"><span></span>Coahuila</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=6" class="estado" data-estado="Colima"><span></span>Colima</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=7" class="estado" data-estado="Chiapas"><span></span>Chiapas</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=8" class="estado" data-estado="Chihuahua"><span></span>Chihuahua</a>
-                    </div>
-                    <div class="col-xl-3 p-0">
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=9" class="estado" data-estado="Ciudad de México"><span></span>Ciudad de México</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=10" class="estado" data-estado="Durango"><span></span>Durango</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=11" class="estado" data-estado="Guanajuato"><span></span>Guanajuato</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=12" class="estado" data-estado="Guerrero"><span></span>Guerrero</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=13" class="estado" data-estado="Hidalgo"><span></span>Hidalgo</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=14" class="estado" data-estado="Jalisco"><span></span>Jalisco</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=15" class="estado" data-estado="Estado de México"><span></span>Estado de México</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=16" class="estado" data-estado="Michoacán"><span></span>Michoacán</a>
-                    </div>
-                    <div class="col-xl-3 p-0">
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=17" class="estado" data-estado="Morelos"><span></span>Morelos</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=18" class="estado" data-estado="Nayarit"><span></span>Nayarit</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=19" class="estado" data-estado="Nuevo León"><span></span>Nuevo León</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=20" class="estado" data-estado="Oaxaca"><span></span>Oaxaca</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=21" class="estado" data-estado="Puebla"><span></span>Puebla</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=22" class="estado" data-estado="Querétaro"><span></span>Querétaro</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=23" class="estado" data-estado="Quintana Roo"><span></span>Quintana Roo</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=24" class="estado" data-estado="San Luis Potosí"><span></span>San Luis Potosí</a>
-                    </div>
-                    <div class="col-xl-3 p-0">
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=25" class="estado" data-estado="Sinaloa"><span></span>Sinaloa</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=26" class="estado" data-estado="Sonora"><span></span>Sonora</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=27" class="estado" data-estado="Tabasco"><span></span>Tabasco</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=28" class="estado" data-estado="Tamaulipas"><span></span>Tamaulipas</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=29" class="estado" data-estado="Tlaxcala"><span></span>Tlaxcala</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=30" class="estado" data-estado="Veracruz"><span></span>Veracruz</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=31" class="estado" data-estado="Yucatán"><span></span>Yucatán</a>
-                  <a href="https://www.educa.mx/sna/s5/entes.php?id_edo=32" class="estado" data-estado="Zacatecas"><span></span>Zacatecas</a>
-                    </div>
-                  </div>
-                  
-                  
-                  
-                  
-                
-                
-
-                
-
-              </div>
-              
-
-
-
-            </div>
-            <div class="row">
-              <div class="col">
-
-              </div>
-
             </div>
           </div>
         </div>
       </div>
-    </div>
-  </section>
-  <script>
-    // Initialize tooltips
-    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
-    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
-      return new bootstrap.Tooltip(tooltipTriggerEl)
-    })
-
-    var estadoElements = document.querySelectorAll('.estado');
-
-    estadoElements.forEach(function (element) {
-      element.addEventListener('mouseover', function () {
-        var estado = this.getAttribute('data-estado');
-        var matchingElements = document.querySelectorAll('.estado[data-estado="' + estado + '"]');
-        matchingElements.forEach(function (matchingElement) {
-          matchingElement.classList.add('hover');
-        });
+    </section>
+    <script>
+      // Initialize tooltips
+      var tooltipTriggerList = [].slice.call(
+        document.querySelectorAll('[data-bs-toggle="tooltip"]')
+      );
+      var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl);
       });
 
-      element.addEventListener('mouseout', function () {
-        var estado = this.getAttribute('data-estado');
-        var matchingElements = document.querySelectorAll('.estado[data-estado="' + estado + '"]');
-        matchingElements.forEach(function (matchingElement) {
-          matchingElement.classList.remove('hover');
+      var estadoElements = document.querySelectorAll(".estado");
+
+      estadoElements.forEach(function (element) {
+        element.addEventListener("mouseover", function () {
+          var estado = this.getAttribute("data-estado");
+          var matchingElements = document.querySelectorAll(
+            '.estado[data-estado="' + estado + '"]'
+          );
+          matchingElements.forEach(function (matchingElement) {
+            matchingElement.classList.add("hover");
+          });
+        });
+
+        element.addEventListener("mouseout", function () {
+          var estado = this.getAttribute("data-estado");
+          var matchingElements = document.querySelectorAll(
+            '.estado[data-estado="' + estado + '"]'
+          );
+          matchingElements.forEach(function (matchingElement) {
+            matchingElement.classList.remove("hover");
+          });
         });
       });
-    });
-  </script>
-</body>
-
+    </script>
+  </body>
 </html>

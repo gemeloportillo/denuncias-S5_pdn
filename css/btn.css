@@ -58,7 +58,7 @@ background: linear-gradient(180deg, rgba(105,235,215,1) 0%, rgba(255,255,255,0.6
 
 
 .grid figure {
-margin: 10px;
+margin: 0px 5px;
 display: inline-block;
 cursor: pointer;
 -webkit-touch-callout: none;
@@ -72,6 +72,7 @@ backface-visibility:hidden;
 -moz-backface-visibility:hidden;
 transform:translate3d(0,0,0);
 -moz-transform:translate3d(0,0,0);
+width: 30%;
 }
 
 
@@ -124,6 +125,7 @@ color:#000;
   color: #6D4162;
   top: 5px;
   transition: all 5s ease-in-out 4s;
+  font-size: .9rem;
 }
 .grid figure:hover .detalle p {
   color: #707070;
@@ -134,6 +136,7 @@ color:#000;
   color: #6d4162;
   top: -15px;
   position: relative;
+
 }
 
 .grid figure .detalle h1 {
@@ -141,6 +144,7 @@ color:#000;
   color:#34C9B2;
   top: -10px;
   transition: all 0.5s ease-in-out 0s;
+  font-size: 1.5rem;
 }
 
 

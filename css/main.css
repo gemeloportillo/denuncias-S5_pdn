@@ -8,7 +8,12 @@
 }
 
 .divimg {
-  padding: 1rem 5rem;
+  padding: 0rem 10rem;
+}
+
+.divimg img {
+  padding: 0 2rem;
+  margin: 0 0 4rem 0;
 }
 
 .card {
@@ -61,6 +66,23 @@ svg path:hover {
 
 svg path#ico-chih {
   border: 1px solid #6a4264;
+}
+
+#mapasvg {
+  padding: 0 4rem;
+  padding: 0 7rem 3rem 2rem;
+  padding: 3rem 5rem 0rem 7rem;
+}
+
+.mapa {
+  display: flex;
+  align-items: center;
+}
+
+.mapa h5 {
+  display: flex;
+  justify-content: left;
+  margin: 0 0 2rem 0;
 }
 
 .btn-menu {
@@ -131,7 +153,17 @@ a.estado.hover {
   /* border: 1px solid #ccc; */
   border-radius: 10px;
   margin-right: 1rem;
+  width: 100%;
 }
+
+#home .card-body {
+  padding: 0 0 1rem 0;
+}
+
+.admin {
+  text-align: right;
+}
+
 
 @media (min-width: 768px) {
   .gradient-form {
@@ -141,7 +173,6 @@ a.estado.hover {
 
 @media (min-width: 769px) {
   .gradient-custom-2 {
-    border-top-right-radius: .3rem;
-    border-bottom-right-radius: .3rem;
+    border-radius: .3rem .0rem .0rem .3rem;
   }
 }
