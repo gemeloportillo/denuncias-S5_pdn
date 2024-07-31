@@ -155,8 +155,7 @@ a.estado.hover {
   margin: 5px;
   box-sizing: border-box;
   display: block;
-  border-bottom: 7px solid #b981ac;
-    padding-bottom: 1rem;
+
 }
 
 .tabla {
@@ -180,6 +179,7 @@ a.estado.hover {
 
 ul {
   list-style: none;
+  margin: 0;
 }
 
 #tablero .card {
@@ -195,26 +195,27 @@ ul {
   display: inline;
   border-bottom: 7px solid #b981ac;
   padding-bottom: 1rem;
-  text-transform:none;
+  text-transform: none;
+  padding-left: 26px;
 }
 
 
-#tablero .sumario { 
+#tablero .sumario {
 
-    background-color: #ebf2f1;
-    margin-bottom: 40px;
-    -webkit-border-radius: 2px;
-    -moz-border-radius: 2px;
-    border-radius: 20px;
-/*     border-top: 2px solid #9854d1;
+  background-color: #ebf2f1;
+  margin-bottom: 20px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 20px;
+  /*     border-top: 2px solid #9854d1;
     border-bottom: 1px solid #a2c9c3;
     border-left: 1px solid #a2c9c3;
     border-right: 1px solid #a2c9c3; */
 }
 
-#tablero .sumario > a {
+#tablero .sumario>a {
   border-left: 1px solid #c2c7c6;
-  
+
   display: block;
   margin: 10px 0;
   padding-bottom: 10px;
@@ -223,13 +224,16 @@ ul {
   text-decoration: none;
 }
 
-#tablero .sumario > a:first-child {
+#tablero .sumario>a:first-child {
   border-left-style: none;
 }
-#tablero .sumario > a:last-child {
+
+#tablero .sumario>a:last-child {
   border-right-style: none;
 }
-#tablero .sumario > a > span, .sumario > a > h5 {
+
+#tablero .sumario>a>span,
+.sumario>a>h5 {
   color: #dd7c9c;
   display: block;
   font-size: 2rem;
@@ -238,22 +242,46 @@ ul {
   text-transform: uppercase;
   font-weight: 500;
 }
-#tablero .sumario > a > span {
+
+#tablero .sumario>a>span {
   color: #6a4163;
   font-size: 1rem;
   font-weight: 300;
 }
 
 #tablero .estado span {
-  top: 49px;
-  left: 251px;
+  top: 18px;
+  left: 105px;
   position: absolute;
 }
 
 #tablero .estado.hover span {
-  top: 49px;
-  left: 251px;
+  top: 18px;
+  left: 105px;
   position: absolute;
+}
+
+#tablero li {
+  text-align: left;
+}
+
+#tablero .sumario-detalle span {
+  /* border-bottom: 5px solid #ffb1ed; */
+  color: #444;
+  position: relative;
+  top: 0px;
+}
+
+#tablero .sumario-detalle h5 {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #b981ac;
+  margin-bottom: 0;
+  padding: 0;
+  margin: 0;
+  line-height: 24px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #ccc;
 }
 
 @media (min-width: 768px) {
@@ -272,5 +300,9 @@ ul {
 @media (max-width: 991px) {
   .mapa>.col-lg-7 {
     padding: 1rem;
+  }
+
+  #tablero .estado {
+    font-size: 1.2rem;
   }
 }
