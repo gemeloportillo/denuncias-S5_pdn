@@ -50,14 +50,14 @@
       </nav>
     </header>
     <section id="tablero" class="" style="background-color: #f8f9fa">
-      <div class="container-fluid py-5 h-100">
+      <div class="container-fluid h-100">
         <div class="card text-center">
           <div class="card-header d-inline-flex justify-content-between">
             <div class="titulo d-flex align-items-center">
               <div class="btn-menu">
                 <img src="imgs/iconos/ico-tablero.svg" alt="img01" />
               </div>
-              <h4 class="px-2 mb-0">Tablero estadístico</h4>
+              <h4 class="px-2 mb-0"><a href="https://www.educa.mx/sna/s5/entes.php?id_edo=8" class="estado" data-estado="Chihuahua"><span></span>Denuncias en Chihuahua</a></h4>
             </div>
 
             <div class="back">
@@ -79,70 +79,44 @@
             </div>
           </div>
           <div class="card-body">
-            <div class="row estadistica tabla">
-              <div class="col-5 resultado-dinamico">
-                <h2 class="heading-2">
-                  <span class="bottom-line state_name"><a href="https://www.educa.mx/sna/s5/entes.php?id_edo=8" class="estado" data-estado="Chihuahua"><span></span>Chihuahua</a></span>
-                  
+            <div class="row estadistica">
+              <div class="col-6">
+                <h2>
+                   
                 </h2>
-                <ul class="">
-                  <li class="ref-module-default">
-                    <span class="title">DENUNCIAS</span>
-                    <span class="result ref-font-color total_bribe_reports"
-                      >311</span
-                    >
-                  </li>
-                  <li class="ref-module-default">
-                    <span class="title">MOTIVOS</span>
-                    <span class="result ref-font-color total_bribe_amount"
-                      >950.20K</span
-                    >
-                  </li>
-                  <li class="ref-module-paid-bribe">
-                    <span class="title">NO GRAVES</span>
-                    <span class="result ref-font-color bribes_paid_cnt"
-                      >71</span
-                    >
-                  </li>
-                  <li class="ref-module-bribe-fighter">
-                    <span class="title">FALTAS GRAVES</span>
-                    <span class="result ref-font-color bribes_nt_paid_cnt"
-                      >4</span
-                    >
-                  </li>
-                  <li class="ref-module-honest-officer">
-                    <span class="title">HECHOS DE CORRUPCIÓN</span>
-                    <span class="result ref-font-color bribes_nt_asked_cnt"
-                      >0</span
-                    >
-                  </li>
-                  <li class="ref-module-hotline-officer">
-                    <span class="title">PUBLICADAS</span>
-                    <span class="result ref-font-color bribes_hotline_cnt"
-                      >236</span
-                    >
-                  </li>
-                  <li class="ref-module-hotline-officer">
-                    <span class="title">EN PROCESO</span>
-                    <span class="result ref-font-color bribes_hotline_cnt"
-                      >236</span
-                    >
-                  </li>
-                  <li class="ref-module-hotline-officer">
-                    <span class="title">VISTAS</span>
-                    <span class="result ref-font-color bribes_hotline_cnt"
-                      >236</span
-                    >
-                  </li>
-                  <li class="ref-module-hotline-officer">
-                    <span class="title">RESUELTAS</span>
-                    <span class="result ref-font-color bribes_hotline_cnt"
-                      >236</span
-                    >
-                  </li>
-                </ul>
+                <section class="clearfix sumario">
+                  <a class="col-xs-3 col-sm-3 col-md-3"><h5>236</h5><span>PUBLICADAS</span></a>
+                  <a class="col-xs-3 col-sm-3 col-md-3"><h5>36</h5><span>EN PROCESO</span></a>
+                  <a class="col-xs-3 col-sm-3 col-md-3"><h5>26</h5><span>VISTAS</span></a>
+                  <a class="col-xs-3 col-sm-3 col-md-3"><h5>23</h5><span>RESUELTAS</span></a>
+                </section>
+                <section class="clearfix sumario-detalle">
+                  <ul>
+                    <li>
+                      <span>DENUNCIAS</span>
+                      <h5>311</h5>
+                    </li>
+                    <li>
+                      <span>MOTIVOS</span>
+                      <h5>950.20K</h5>
+                    </li>
+                    <li>
+                      <span>NO GRAVES</span>
+                      <h5>71</h5>
+                    </li>
+                    <li>
+                      <span>FALTAS GRAVES</span>
+                      <h5>4</h5>
+                    </li>
+                    <li>
+                      <span>HECHOS DE CORRUPCIÓN</span>
+                      <h5>0</h5>
+                    </li>
+                  </ul>
+                </section>
+                
               </div>
-              <div class="col-7 mapa-dinamico">
+              <div class="col-6 mapa-dinamico">
                 <svg id="mapasvg" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 848 560">
                   <defs>
                     <style>
