@@ -213,6 +213,10 @@ p {
   cursor: default;
 }
 
+.back span {
+  padding-left: 5px;
+}
+
 
 @media (max-width: 1024px) {
   #seguimiento .grid figure {

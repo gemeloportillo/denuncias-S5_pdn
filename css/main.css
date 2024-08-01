@@ -215,13 +215,13 @@ ul {
 
 #tablero .sumario>a {
   border-left: 1px solid #c2c7c6;
-
   display: block;
   margin: 10px 0;
   padding-bottom: 10px;
   padding-top: 10px;
   float: left;
   text-decoration: none;
+  width: 25%;
 }
 
 #tablero .sumario>a:first-child {
@@ -305,4 +305,8 @@ ul {
   #tablero .estado {
     font-size: 1.2rem;
   }
+
+  .back span {
+    display: none;
+}
 }
