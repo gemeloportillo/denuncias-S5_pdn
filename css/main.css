@@ -284,6 +284,10 @@ ul {
   border-bottom: 1px solid #ccc;
 }
 
+#municipios #mapasvg {
+  padding: 0rem 4rem 0rem 5rem;
+}
+
 @media (min-width: 768px) {
   .gradient-form {
     height: 100vh !important;
