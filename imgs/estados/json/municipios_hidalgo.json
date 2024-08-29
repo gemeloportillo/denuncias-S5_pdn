@@ -1,0 +1,338 @@
+[
+  {
+    "id": "001",
+    "municipio": "Acatlán"
+  },
+  {
+    "id": "002",
+    "municipio": "Acaxochitlán"
+  },
+  {
+    "id": "003",
+    "municipio": "Actopan"
+  },
+  {
+    "id": "004",
+    "municipio": "Agua Blanca de Iturbide"
+  },
+  {
+    "id": "005",
+    "municipio": "Ajacuba"
+  },
+  {
+    "id": "006",
+    "municipio": "Alfajayucan"
+  },
+  {
+    "id": "007",
+    "municipio": "Almoloya"
+  },
+  {
+    "id": "008",
+    "municipio": "Apan"
+  },
+  {
+    "id": "009",
+    "municipio": "El Arenal"
+  },
+  {
+    "id": "010",
+    "municipio": "Atitalaquia"
+  },
+  {
+    "id": "011",
+    "municipio": "Atlapexco"
+  },
+  {
+    "id": "012",
+    "municipio": "Atotonilco el Grande"
+  },
+  {
+    "id": "013",
+    "municipio": "Atotonilco de Tula"
+  },
+  {
+    "id": "014",
+    "municipio": "Calnali"
+  },
+  {
+    "id": "015",
+    "municipio": "Cardonal"
+  },
+  {
+    "id": "016",
+    "municipio": "Cuautepec de Hinojosa"
+  },
+  {
+    "id": "017",
+    "municipio": "Chapantongo"
+  },
+  {
+    "id": "018",
+    "municipio": "Chapulhuacán"
+  },
+  {
+    "id": "019",
+    "municipio": "Chilcuautla"
+  },
+  {
+    "id": "020",
+    "municipio": "Eloxochitlán"
+  },
+  {
+    "id": "021",
+    "municipio": "Emiliano Zapata"
+  },
+  {
+    "id": "022",
+    "municipio": "Epazoyucan"
+  },
+  {
+    "id": "023",
+    "municipio": "Francisco I. Madero"
+  },
+  {
+    "id": "024",
+    "municipio": "Huasca de Ocampo"
+  },
+  {
+    "id": "025",
+    "municipio": "Huautla"
+  },
+  {
+    "id": "026",
+    "municipio": "Huazalingo"
+  },
+  {
+    "id": "027",
+    "municipio": "Huehuetla"
+  },
+  {
+    "id": "028",
+    "municipio": "Huejutla de Reyes"
+  },
+  {
+    "id": "029",
+    "municipio": "Huichapan"
+  },
+  {
+    "id": "030",
+    "municipio": "Ixmiquilpan"
+  },
+  {
+    "id": "031",
+    "municipio": "Jacala de Ledezma"
+  },
+  {
+    "id": "032",
+    "municipio": "Jaltocán"
+  },
+  {
+    "id": "033",
+    "municipio": "Juárez Hidalgo"
+  },
+  {
+    "id": "034",
+    "municipio": "Lolotla"
+  },
+  {
+    "id": "035",
+    "municipio": "Metepec"
+  },
+  {
+    "id": "036",
+    "municipio": "San Agustín Metzquititlán"
+  },
+  {
+    "id": "037",
+    "municipio": "Metztitlán"
+  },
+  {
+    "id": "038",
+    "municipio": "Mineral del Chico"
+  },
+  {
+    "id": "039",
+    "municipio": "Mineral del Monte"
+  },
+  {
+    "id": "040",
+    "municipio": "La Misión"
+  },
+  {
+    "id": "041",
+    "municipio": "Mixquiahuala de Juárez"
+  },
+  {
+    "id": "042",
+    "municipio": "Molango de Escamilla"
+  },
+  {
+    "id": "043",
+    "municipio": "Nicolás Flores"
+  },
+  {
+    "id": "044",
+    "municipio": "Nopala de Villagrán"
+  },
+  {
+    "id": "045",
+    "municipio": "Omitlán de Juárez"
+  },
+  {
+    "id": "046",
+    "municipio": "San Felipe Orizatlán"
+  },
+  {
+    "id": "047",
+    "municipio": "Pacula"
+  },
+  {
+    "id": "048",
+    "municipio": "Pachuca de Soto"
+  },
+  {
+    "id": "049",
+    "municipio": "Pisaflores"
+  },
+  {
+    "id": "050",
+    "municipio": "Progreso de Obregón"
+  },
+  {
+    "id": "051",
+    "municipio": "Mineral de la Reforma"
+  },
+  {
+    "id": "052",
+    "municipio": "San Agustín Tlaxiaca"
+  },
+  {
+    "id": "053",
+    "municipio": "San Bartolo Tutotepec"
+  },
+  {
+    "id": "054",
+    "municipio": "San Salvador"
+  },
+  {
+    "id": "055",
+    "municipio": "Santiago de Anaya"
+  },
+  {
+    "id": "056",
+    "municipio": "Santiago Tulantepec de Lugo Guerrero"
+  },
+  {
+    "id": "057",
+    "municipio": "Singuilucan"
+  },
+  {
+    "id": "058",
+    "municipio": "Tasquillo"
+  },
+  {
+    "id": "059",
+    "municipio": "Tecozautla"
+  },
+  {
+    "id": "060",
+    "municipio": "Tenango de Doria"
+  },
+  {
+    "id": "061",
+    "municipio": "Tepeapulco"
+  },
+  {
+    "id": "062",
+    "municipio": "Tepehuacán de Guerrero"
+  },
+  {
+    "id": "063",
+    "municipio": "Tepeji del Río de Ocampo"
+  },
+  {
+    "id": "064",
+    "municipio": "Tepetitlán"
+  },
+  {
+    "id": "065",
+    "municipio": "Tetepango"
+  },
+  {
+    "id": "066",
+    "municipio": "Villa de Tezontepec"
+  },
+  {
+    "id": "067",
+    "municipio": "Tezontepec de Aldama"
+  },
+  {
+    "id": "068",
+    "municipio": "Tianguistengo"
+  },
+  {
+    "id": "069",
+    "municipio": "Tizayuca"
+  },
+  {
+    "id": "070",
+    "municipio": "Tlahuelilpan"
+  },
+  {
+    "id": "071",
+    "municipio": "Tlahuiltepa"
+  },
+  {
+    "id": "072",
+    "municipio": "Tlanalapa"
+  },
+  {
+    "id": "073",
+    "municipio": "Tlanchinol"
+  },
+  {
+    "id": "074",
+    "municipio": "Tlaxcoapan"
+  },
+  {
+    "id": "075",
+    "municipio": "Tolcayuca"
+  },
+  {
+    "id": "076",
+    "municipio": "Tula de Allende"
+  },
+  {
+    "id": "077",
+    "municipio": "Tulancingo de Bravo"
+  },
+  {
+    "id": "078",
+    "municipio": "Xochiatipan"
+  },
+  {
+    "id": "079",
+    "municipio": "Xochicoatlán"
+  },
+  {
+    "id": "080",
+    "municipio": "Yahualica"
+  },
+  {
+    "id": "081",
+    "municipio": "Zacualtipán de Ángeles"
+  },
+  {
+    "id": "082",
+    "municipio": "Zapotlán de Juárez"
+  },
+  {
+    "id": "083",
+    "municipio": "Zempoala"
+  },
+  {
+    "id": "084",
+    "municipio": "Zimapán"
+  }
+]

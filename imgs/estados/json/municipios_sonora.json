@@ -1,0 +1,290 @@
+[
+  {
+    "id": "001",
+    "municipio": "Aconchi"
+  },
+  {
+    "id": "002",
+    "municipio": "Agua Prieta"
+  },
+  {
+    "id": "003",
+    "municipio": "Álamos"
+  },
+  {
+    "id": "004",
+    "municipio": "Altar"
+  },
+  {
+    "id": "005",
+    "municipio": "Arivechi"
+  },
+  {
+    "id": "006",
+    "municipio": "Arizpe"
+  },
+  {
+    "id": "007",
+    "municipio": "Átil"
+  },
+  {
+    "id": "008",
+    "municipio": "Bacadéhuachi"
+  },
+  {
+    "id": "009",
+    "municipio": "Bacanora"
+  },
+  {
+    "id": "010",
+    "municipio": "Bacerac"
+  },
+  {
+    "id": "011",
+    "municipio": "Bacoachi"
+  },
+  {
+    "id": "012",
+    "municipio": "Bácum"
+  },
+  {
+    "id": "013",
+    "municipio": "Banámichi"
+  },
+  {
+    "id": "014",
+    "municipio": "Baviácora"
+  },
+  {
+    "id": "015",
+    "municipio": "Bavispe"
+  },
+  {
+    "id": "016",
+    "municipio": "Benjamín Hill"
+  },
+  {
+    "id": "017",
+    "municipio": "Caborca"
+  },
+  {
+    "id": "018",
+    "municipio": "Cajeme"
+  },
+  {
+    "id": "019",
+    "municipio": "Cananea"
+  },
+  {
+    "id": "020",
+    "municipio": "Carbó"
+  },
+  {
+    "id": "021",
+    "municipio": "La Colorada"
+  },
+  {
+    "id": "022",
+    "municipio": "Cucurpe"
+  },
+  {
+    "id": "023",
+    "municipio": "Cumpas"
+  },
+  {
+    "id": "024",
+    "municipio": "Divisaderos"
+  },
+  {
+    "id": "025",
+    "municipio": "Empalme"
+  },
+  {
+    "id": "026",
+    "municipio": "Etchojoa"
+  },
+  {
+    "id": "027",
+    "municipio": "Fronteras"
+  },
+  {
+    "id": "028",
+    "municipio": "Granados"
+  },
+  {
+    "id": "029",
+    "municipio": "Guaymas"
+  },
+  {
+    "id": "030",
+    "municipio": "Hermosillo"
+  },
+  {
+    "id": "031",
+    "municipio": "Huachinera"
+  },
+  {
+    "id": "032",
+    "municipio": "Huásabas"
+  },
+  {
+    "id": "033",
+    "municipio": "Huatabampo"
+  },
+  {
+    "id": "034",
+    "municipio": "Huépac"
+  },
+  {
+    "id": "035",
+    "municipio": "Ímuris"
+  },
+  {
+    "id": "036",
+    "municipio": "Magdalena"
+  },
+  {
+    "id": "037",
+    "municipio": "Mazatán"
+  },
+  {
+    "id": "038",
+    "municipio": "Moctezuma"
+  },
+  {
+    "id": "039",
+    "municipio": "Naco"
+  },
+  {
+    "id": "040",
+    "municipio": "Nácori Chico"
+  },
+  {
+    "id": "041",
+    "municipio": "Nacozari de García"
+  },
+  {
+    "id": "042",
+    "municipio": "Navojoa"
+  },
+  {
+    "id": "043",
+    "municipio": "Nogales"
+  },
+  {
+    "id": "044",
+    "municipio": "Ónavas"
+  },
+  {
+    "id": "045",
+    "municipio": "Opodepe"
+  },
+  {
+    "id": "046",
+    "municipio": "Oquitoa"
+  },
+  {
+    "id": "047",
+    "municipio": "Pitiquito"
+  },
+  {
+    "id": "048",
+    "municipio": "Puerto Peñasco"
+  },
+  {
+    "id": "049",
+    "municipio": "Quiriego"
+  },
+  {
+    "id": "050",
+    "municipio": "Rayón"
+  },
+  {
+    "id": "051",
+    "municipio": "Rosario"
+  },
+  {
+    "id": "052",
+    "municipio": "Sahuaripa"
+  },
+  {
+    "id": "053",
+    "municipio": "San Felipe de Jesús"
+  },
+  {
+    "id": "054",
+    "municipio": "San Javier"
+  },
+  {
+    "id": "055",
+    "municipio": "San Luis Río Colorado"
+  },
+  {
+    "id": "056",
+    "municipio": "San Miguel de Horcasitas"
+  },
+  {
+    "id": "057",
+    "municipio": "San Pedro de la Cueva"
+  },
+  {
+    "id": "058",
+    "municipio": "Santa Ana"
+  },
+  {
+    "id": "059",
+    "municipio": "Santa Cruz"
+  },
+  {
+    "id": "060",
+    "municipio": "Sáric"
+  },
+  {
+    "id": "061",
+    "municipio": "Soyopa"
+  },
+  {
+    "id": "062",
+    "municipio": "Suaqui Grande"
+  },
+  {
+    "id": "063",
+    "municipio": "Tepache"
+  },
+  {
+    "id": "064",
+    "municipio": "Trincheras"
+  },
+  {
+    "id": "065",
+    "municipio": "Tubutama"
+  },
+  {
+    "id": "066",
+    "municipio": "Ures"
+  },
+  {
+    "id": "067",
+    "municipio": "Villa Hidalgo"
+  },
+  {
+    "id": "068",
+    "municipio": "Villa Pesqueira"
+  },
+  {
+    "id": "069",
+    "municipio": "Yécora"
+  },
+  {
+    "id": "070",
+    "municipio": "General Plutarco Elías Calles"
+  },
+  {
+    "id": "071",
+    "municipio": "Benito Juárez"
+  },
+  {
+    "id": "072",
+    "municipio": "San Ignacio Río Muerto"
+  }
+]

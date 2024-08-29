@@ -1,0 +1,42 @@
+[
+  {
+    "id": "001",
+    "municipio": "Armería"
+  },
+  {
+    "id": "002",
+    "municipio": "Colima"
+  },
+  {
+    "id": "003",
+    "municipio": "Comala"
+  },
+  {
+    "id": "004",
+    "municipio": "Coquimatlán"
+  },
+  {
+    "id": "005",
+    "municipio": "Cuauhtémoc"
+  },
+  {
+    "id": "006",
+    "municipio": "Ixtlahuacán"
+  },
+  {
+    "id": "007",
+    "municipio": "Manzanillo"
+  },
+  {
+    "id": "008",
+    "municipio": "Minatitlán"
+  },
+  {
+    "id": "009",
+    "municipio": "Tecomán"
+  },
+  {
+    "id": "010",
+    "municipio": "Villa de Álvarez"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "001",
+    "municipio": "Amaxac de Guerrero"
+  },
+  {
+    "id": "002",
+    "municipio": "Apetatitlán de Antonio Carvajal"
+  },
+  {
+    "id": "003",
+    "municipio": "Atlangatepec"
+  },
+  {
+    "id": "004",
+    "municipio": "Atltzayanca"
+  },
+  {
+    "id": "005",
+    "municipio": "Apizaco"
+  },
+  {
+    "id": "006",
+    "municipio": "Calpulalpan"
+  },
+  {
+    "id": "007",
+    "municipio": "El Carmen Tequexquitla"
+  },
+  {
+    "id": "008",
+    "municipio": "Cuapiaxtla"
+  },
+  {
+    "id": "009",
+    "municipio": "Cuaxomulco"
+  },
+  {
+    "id": "010",
+    "municipio": "Chiautempan"
+  },
+  {
+    "id": "011",
+    "municipio": "Muñoz de Domingo Arenas"
+  },
+  {
+    "id": "012",
+    "municipio": "Españita"
+  },
+  {
+    "id": "013",
+    "municipio": "Huamantla"
+  },
+  {
+    "id": "014",
+    "municipio": "Hueyotlipan"
+  },
+  {
+    "id": "015",
+    "municipio": "Ixtacuixtla de Mariano Matamoros"
+  },
+  {
+    "id": "016",
+    "municipio": "Ixtenco"
+  },
+  {
+    "id": "017",
+    "municipio": "Mazatecochco de José María Morelos"
+  },
+  {
+    "id": "018",
+    "municipio": "Contla de Juan Cuamatzi"
+  },
+  {
+    "id": "019",
+    "municipio": "Tepetitla de Lardizábal"
+  },
+  {
+    "id": "020",
+    "municipio": "Sanctórum de Lázaro Cárdenas"
+  },
+  {
+    "id": "021",
+    "municipio": "Nanacamilpa de Mariano Arista"
+  },
+  {
+    "id": "022",
+    "municipio": "Acuamanala de Miguel Hidalgo"
+  },
+  {
+    "id": "023",
+    "municipio": "Natívitas"
+  },
+  {
+    "id": "024",
+    "municipio": "Panotla"
+  },
+  {
+    "id": "025",
+    "municipio": "San Pablo del Monte"
+  },
+  {
+    "id": "026",
+    "municipio": "Santa Cruz Tlaxcala"
+  },
+  {
+    "id": "027",
+    "municipio": "Tenancingo"
+  },
+  {
+    "id": "028",
+    "municipio": "Teolocholco"
+  },
+  {
+    "id": "029",
+    "municipio": "Tepeyanco"
+  },
+  {
+    "id": "030",
+    "municipio": "Terrenate"
+  },
+  {
+    "id": "031",
+    "municipio": "Tetla de la Solidaridad"
+  },
+  {
+    "id": "032",
+    "municipio": "Tetlatlahuca"
+  },
+  {
+    "id": "033",
+    "municipio": "Tlaxcala"
+  },
+  {
+    "id": "034",
+    "municipio": "Tlaxco"
+  },
+  {
+    "id": "035",
+    "municipio": "Tocatlán"
+  },
+  {
+    "id": "036",
+    "municipio": "Totolac"
+  },
+  {
+    "id": "037",
+    "municipio": "Zitlaltépec de Trinidad Sánchez Santos"
+  },
+  {
+    "id": "038",
+    "municipio": "Tzompantepec"
+  },
+  {
+    "id": "039",
+    "municipio": "Xaloztoc"
+  },
+  {
+    "id": "040",
+    "municipio": "Xaltocan"
+  },
+  {
+    "id": "041",
+    "municipio": "Papalotla de Xicohténcatl"
+  },
+  {
+    "id": "042",
+    "municipio": "Xicohtzinco"
+  },
+  {
+    "id": "043",
+    "municipio": "Yauhquemecan"
+  },
+  {
+    "id": "044",
+    "municipio": "Zacatelco"
+  },
+  {
+    "id": "045",
+    "municipio": "Benito Juárez"
+  },
+  {
+    "id": "046",
+    "municipio": "Emiliano Zapata"
+  },
+  {
+    "id": "047",
+    "municipio": "Lázaro Cárdenas"
+  },
+  {
+    "id": "048",
+    "municipio": "La Magdalena Tlaltelulco"
+  },
+  {
+    "id": "049",
+    "municipio": "San Damián Texoloc"
+  },
+  {
+    "id": "050",
+    "municipio": "San Francisco Tetlanohcan"
+  },
+  {
+    "id": "051",
+    "municipio": "San Jerónimo Zacualpan"
+  },
+  {
+    "id": "052",
+    "municipio": "San José Teacalco"
+  },
+  {
+    "id": "053",
+    "municipio": "San Juan Huactzinco"
+  },
+  {
+    "id": "054",
+    "municipio": "San Lorenzo Axocomanitla"
+  },
+  {
+    "id": "055",
+    "municipio": "San Lucas Tecopilco"
+  },
+  {
+    "id": "056",
+    "municipio": "Santa Ana Nopalucan"
+  },
+  {
+    "id": "057",
+    "municipio": "Santa Apolonia Teacalco"
+  },
+  {
+    "id": "058",
+    "municipio": "Santa Catarina Ayometla"
+  },
+  {
+    "id": "059",
+    "municipio": "Santa Cruz Quilehtla"
+  },
+  {
+    "id": "060",
+    "municipio": "Santa Isabel Xiloxoxtla"
+  }
+]

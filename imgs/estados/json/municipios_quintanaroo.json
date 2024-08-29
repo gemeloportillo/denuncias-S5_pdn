@@ -1,0 +1,46 @@
+[
+  {
+    "id": "001",
+    "municipio": "Cozumel"
+  },
+  {
+    "id": "002",
+    "municipio": "Felipe Carrillo Puerto"
+  },
+  {
+    "id": "003",
+    "municipio": "Isla Mujeres"
+  },
+  {
+    "id": "004",
+    "municipio": "Othón P. Blanco"
+  },
+  {
+    "id": "005",
+    "municipio": "Benito Juárez"
+  },
+  {
+    "id": "006",
+    "municipio": "José María Morelos"
+  },
+  {
+    "id": "007",
+    "municipio": "Lázaro Cárdenas"
+  },
+  {
+    "id": "008",
+    "municipio": "Solidaridad"
+  },
+  {
+    "id": "009",
+    "municipio": "Tulum"
+  },
+  {
+    "id": "010",
+    "municipio": "Bacalar"
+  },
+  {
+    "id": "011",
+    "municipio": "Puerto Morelos"
+  }
+]

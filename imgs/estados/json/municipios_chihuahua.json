@@ -1,0 +1,270 @@
+[
+  {
+    "id": "001",
+    "municipio": "Ahumada"
+  },
+  {
+    "id": "002",
+    "municipio": "Aldama"
+  },
+  {
+    "id": "003",
+    "municipio": "Allende"
+  },
+  {
+    "id": "004",
+    "municipio": "Aquiles Serdán"
+  },
+  {
+    "id": "005",
+    "municipio": "Ascensión"
+  },
+  {
+    "id": "006",
+    "municipio": "Bachíniva"
+  },
+  {
+    "id": "007",
+    "municipio": "Balleza"
+  },
+  {
+    "id": "008",
+    "municipio": "Batopilas de Manuel Gómez Morín"
+  },
+  {
+    "id": "009",
+    "municipio": "Bocoyna"
+  },
+  {
+    "id": "010",
+    "municipio": "Buenaventura"
+  },
+  {
+    "id": "011",
+    "municipio": "Camargo"
+  },
+  {
+    "id": "012",
+    "municipio": "Carichí"
+  },
+  {
+    "id": "013",
+    "municipio": "Casas Grandes"
+  },
+  {
+    "id": "014",
+    "municipio": "Coronado"
+  },
+  {
+    "id": "015",
+    "municipio": "Coyame del Sotol"
+  },
+  {
+    "id": "016",
+    "municipio": "La Cruz"
+  },
+  {
+    "id": "017",
+    "municipio": "Cuauhtémoc"
+  },
+  {
+    "id": "018",
+    "municipio": "Cusihuiriachi"
+  },
+  {
+    "id": "019",
+    "municipio": "Chihuahua"
+  },
+  {
+    "id": "020",
+    "municipio": "Chínipas"
+  },
+  {
+    "id": "021",
+    "municipio": "Delicias"
+  },
+  {
+    "id": "022",
+    "municipio": "Dr. Belisario Domínguez"
+  },
+  {
+    "id": "023",
+    "municipio": "Galeana"
+  },
+  {
+    "id": "024",
+    "municipio": "Santa Isabel"
+  },
+  {
+    "id": "025",
+    "municipio": "Gómez Farías"
+  },
+  {
+    "id": "026",
+    "municipio": "Gran Morelos"
+  },
+  {
+    "id": "027",
+    "municipio": "Guachochi"
+  },
+  {
+    "id": "028",
+    "municipio": "Guadalupe"
+  },
+  {
+    "id": "029",
+    "municipio": "Guadalupe y Calvo"
+  },
+  {
+    "id": "030",
+    "municipio": "Guazapares"
+  },
+  {
+    "id": "031",
+    "municipio": "Guerrero"
+  },
+  {
+    "id": "032",
+    "municipio": "Hidalgo del Parral"
+  },
+  {
+    "id": "033",
+    "municipio": "Huejotitán"
+  },
+  {
+    "id": "034",
+    "municipio": "Ignacio Zaragoza"
+  },
+  {
+    "id": "035",
+    "municipio": "Janos"
+  },
+  {
+    "id": "036",
+    "municipio": "Jiménez"
+  },
+  {
+    "id": "037",
+    "municipio": "Juárez"
+  },
+  {
+    "id": "038",
+    "municipio": "Julimes"
+  },
+  {
+    "id": "039",
+    "municipio": "López"
+  },
+  {
+    "id": "040",
+    "municipio": "Madera"
+  },
+  {
+    "id": "041",
+    "municipio": "Maguarichi"
+  },
+  {
+    "id": "042",
+    "municipio": "Manuel Benavides"
+  },
+  {
+    "id": "043",
+    "municipio": "Matachí"
+  },
+  {
+    "id": "044",
+    "municipio": "Matamoros"
+  },
+  {
+    "id": "045",
+    "municipio": "Meoqui"
+  },
+  {
+    "id": "046",
+    "municipio": "Morelos"
+  },
+  {
+    "id": "047",
+    "municipio": "Moris"
+  },
+  {
+    "id": "048",
+    "municipio": "Namiquipa"
+  },
+  {
+    "id": "049",
+    "municipio": "Nonoava"
+  },
+  {
+    "id": "050",
+    "municipio": "Nuevo Casas Grandes"
+  },
+  {
+    "id": "051",
+    "municipio": "Ocampo"
+  },
+  {
+    "id": "052",
+    "municipio": "Ojinaga"
+  },
+  {
+    "id": "053",
+    "municipio": "Práxedis G. Guerrero"
+  },
+  {
+    "id": "054",
+    "municipio": "Riva Palacio"
+  },
+  {
+    "id": "055",
+    "municipio": "Rosales"
+  },
+  {
+    "id": "056",
+    "municipio": "Rosario"
+  },
+  {
+    "id": "057",
+    "municipio": "San Francisco de Borja"
+  },
+  {
+    "id": "058",
+    "municipio": "San Francisco de Conchos"
+  },
+  {
+    "id": "059",
+    "municipio": "San Francisco del Oro"
+  },
+  {
+    "id": "060",
+    "municipio": "Santa Bárbara"
+  },
+  {
+    "id": "061",
+    "municipio": "Satevó"
+  },
+  {
+    "id": "062",
+    "municipio": "Saucillo"
+  },
+  {
+    "id": "063",
+    "municipio": "Temósachic"
+  },
+  {
+    "id": "064",
+    "municipio": "El Tule"
+  },
+  {
+    "id": "065",
+    "municipio": "Urique"
+  },
+  {
+    "id": "066",
+    "municipio": "Uruachi"
+  },
+  {
+    "id": "067",
+    "municipio": "Valle de Zaragoza"
+  }
+]
