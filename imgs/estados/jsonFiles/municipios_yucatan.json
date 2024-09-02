@@ -1,0 +1,426 @@
+[
+  {
+    "id": "001",
+    "municipio": "Abalá"
+  },
+  {
+    "id": "002",
+    "municipio": "Acanceh"
+  },
+  {
+    "id": "003",
+    "municipio": "Akil"
+  },
+  {
+    "id": "004",
+    "municipio": "Baca"
+  },
+  {
+    "id": "005",
+    "municipio": "Bokobá"
+  },
+  {
+    "id": "006",
+    "municipio": "Buctzotz"
+  },
+  {
+    "id": "007",
+    "municipio": "Cacalchén"
+  },
+  {
+    "id": "008",
+    "municipio": "Calotmul"
+  },
+  {
+    "id": "009",
+    "municipio": "Cansahcab"
+  },
+  {
+    "id": "010",
+    "municipio": "Cantamayec"
+  },
+  {
+    "id": "011",
+    "municipio": "Celestún"
+  },
+  {
+    "id": "012",
+    "municipio": "Cenotillo"
+  },
+  {
+    "id": "013",
+    "municipio": "Conkal"
+  },
+  {
+    "id": "014",
+    "municipio": "Cuncunul"
+  },
+  {
+    "id": "015",
+    "municipio": "Cuzamá"
+  },
+  {
+    "id": "016",
+    "municipio": "Chacsinkín"
+  },
+  {
+    "id": "017",
+    "municipio": "Chankom"
+  },
+  {
+    "id": "018",
+    "municipio": "Chapab"
+  },
+  {
+    "id": "019",
+    "municipio": "Chemax"
+  },
+  {
+    "id": "020",
+    "municipio": "Chicxulub Pueblo"
+  },
+  {
+    "id": "021",
+    "municipio": "Chichimilá"
+  },
+  {
+    "id": "022",
+    "municipio": "Chikindzonot"
+  },
+  {
+    "id": "023",
+    "municipio": "Chocholá"
+  },
+  {
+    "id": "024",
+    "municipio": "Chumayel"
+  },
+  {
+    "id": "025",
+    "municipio": "Dzan"
+  },
+  {
+    "id": "026",
+    "municipio": "Dzemul"
+  },
+  {
+    "id": "027",
+    "municipio": "Dzidzantún"
+  },
+  {
+    "id": "028",
+    "municipio": "Dzilam de Bravo"
+  },
+  {
+    "id": "029",
+    "municipio": "Dzilam González"
+  },
+  {
+    "id": "030",
+    "municipio": "Dzitás"
+  },
+  {
+    "id": "031",
+    "municipio": "Dzoncauich"
+  },
+  {
+    "id": "032",
+    "municipio": "Espita"
+  },
+  {
+    "id": "033",
+    "municipio": "Halachó"
+  },
+  {
+    "id": "034",
+    "municipio": "Hocabá"
+  },
+  {
+    "id": "035",
+    "municipio": "Hoctún"
+  },
+  {
+    "id": "036",
+    "municipio": "Homún"
+  },
+  {
+    "id": "037",
+    "municipio": "Huhí"
+  },
+  {
+    "id": "038",
+    "municipio": "Hunucmá"
+  },
+  {
+    "id": "039",
+    "municipio": "Ixil"
+  },
+  {
+    "id": "040",
+    "municipio": "Izamal"
+  },
+  {
+    "id": "041",
+    "municipio": "Kanasín"
+  },
+  {
+    "id": "042",
+    "municipio": "Kantunil"
+  },
+  {
+    "id": "043",
+    "municipio": "Kaua"
+  },
+  {
+    "id": "044",
+    "municipio": "Kinchil"
+  },
+  {
+    "id": "045",
+    "municipio": "Kopomá"
+  },
+  {
+    "id": "046",
+    "municipio": "Mama"
+  },
+  {
+    "id": "047",
+    "municipio": "Maní"
+  },
+  {
+    "id": "048",
+    "municipio": "Maxcanú"
+  },
+  {
+    "id": "049",
+    "municipio": "Mayapán"
+  },
+  {
+    "id": "050",
+    "municipio": "Mérida"
+  },
+  {
+    "id": "051",
+    "municipio": "Mocochá"
+  },
+  {
+    "id": "052",
+    "municipio": "Motul"
+  },
+  {
+    "id": "053",
+    "municipio": "Muna"
+  },
+  {
+    "id": "054",
+    "municipio": "Muxupip"
+  },
+  {
+    "id": "055",
+    "municipio": "Opichén"
+  },
+  {
+    "id": "056",
+    "municipio": "Oxkutzcab"
+  },
+  {
+    "id": "057",
+    "municipio": "Panabá"
+  },
+  {
+    "id": "058",
+    "municipio": "Peto"
+  },
+  {
+    "id": "059",
+    "municipio": "Progreso"
+  },
+  {
+    "id": "060",
+    "municipio": "Quintana Roo"
+  },
+  {
+    "id": "061",
+    "municipio": "Río Lagartos"
+  },
+  {
+    "id": "062",
+    "municipio": "Sacalum"
+  },
+  {
+    "id": "063",
+    "municipio": "Samahil"
+  },
+  {
+    "id": "064",
+    "municipio": "Sanahcat"
+  },
+  {
+    "id": "065",
+    "municipio": "San Felipe"
+  },
+  {
+    "id": "066",
+    "municipio": "Santa Elena"
+  },
+  {
+    "id": "067",
+    "municipio": "Seyé"
+  },
+  {
+    "id": "068",
+    "municipio": "Sinanché"
+  },
+  {
+    "id": "069",
+    "municipio": "Sotuta"
+  },
+  {
+    "id": "070",
+    "municipio": "Sucilá"
+  },
+  {
+    "id": "071",
+    "municipio": "Sudzal"
+  },
+  {
+    "id": "072",
+    "municipio": "Suma"
+  },
+  {
+    "id": "073",
+    "municipio": "Tahdziú"
+  },
+  {
+    "id": "074",
+    "municipio": "Tahmek"
+  },
+  {
+    "id": "075",
+    "municipio": "Teabo"
+  },
+  {
+    "id": "076",
+    "municipio": "Tecoh"
+  },
+  {
+    "id": "077",
+    "municipio": "Tekal de Venegas"
+  },
+  {
+    "id": "078",
+    "municipio": "Tekantó"
+  },
+  {
+    "id": "079",
+    "municipio": "Tekax"
+  },
+  {
+    "id": "080",
+    "municipio": "Tekit"
+  },
+  {
+    "id": "081",
+    "municipio": "Tekom"
+  },
+  {
+    "id": "082",
+    "municipio": "Telchac Pueblo"
+  },
+  {
+    "id": "083",
+    "municipio": "Telchac Puerto"
+  },
+  {
+    "id": "084",
+    "municipio": "Temax"
+  },
+  {
+    "id": "085",
+    "municipio": "Temozón"
+  },
+  {
+    "id": "086",
+    "municipio": "Tepakán"
+  },
+  {
+    "id": "087",
+    "municipio": "Tetiz"
+  },
+  {
+    "id": "088",
+    "municipio": "Teya"
+  },
+  {
+    "id": "089",
+    "municipio": "Ticul"
+  },
+  {
+    "id": "090",
+    "municipio": "Timucuy"
+  },
+  {
+    "id": "091",
+    "municipio": "Tinum"
+  },
+  {
+    "id": "092",
+    "municipio": "Tixcacalcupul"
+  },
+  {
+    "id": "093",
+    "municipio": "Tixkokob"
+  },
+  {
+    "id": "094",
+    "municipio": "Tixméhuac"
+  },
+  {
+    "id": "095",
+    "municipio": "Tixpéhual"
+  },
+  {
+    "id": "096",
+    "municipio": "Tizimín"
+  },
+  {
+    "id": "097",
+    "municipio": "Tunkás"
+  },
+  {
+    "id": "098",
+    "municipio": "Tzucacab"
+  },
+  {
+    "id": "099",
+    "municipio": "Uayma"
+  },
+  {
+    "id": "100",
+    "municipio": "Ucú"
+  },
+  {
+    "id": "101",
+    "municipio": "Umán"
+  },
+  {
+    "id": "102",
+    "municipio": "Valladolid"
+  },
+  {
+    "id": "103",
+    "municipio": "Xocchel"
+  },
+  {
+    "id": "104",
+    "municipio": "Yaxcabá"
+  },
+  {
+    "id": "105",
+    "municipio": "Yaxkukul"
+  },
+  {
+    "id": "106",
+    "municipio": "Yobaín"
+  }
+]

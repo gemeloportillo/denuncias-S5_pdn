@@ -24,7 +24,7 @@ async function extractTableData(url) {
         const data = [];
         rows.forEach(row => {
             const cells = row.querySelectorAll('td');
-            if (cells.length === 6) { // Asegurarse de que la fila tiene 8 columnas
+            if (cells.length === 8) { // Asegurarse de que la fila tiene 8 columnas
                 const inegiKey = cells[0].textContent.trim();
                 const municipio = cells[2].textContent.trim();
                 data.push({ inegiKey, municipio });
@@ -32,7 +32,7 @@ async function extractTableData(url) {
         });
 
         // Guardar los datos en un archivo JSON
-        fs.writeFileSync('municipios_campeche.json', JSON.stringify(data, null, 2));
+        fs.writeFileSync('municipios_michoacan.json', JSON.stringify(data, null, 2));
         console.log('Datos extraídos y guardados en municipios_campeche.json');
     } catch (error) {
         console.error('Error al extraer los datos de la tabla:', error);
@@ -40,5 +40,5 @@ async function extractTableData(url) {
 }
 
 // URL de la página web que contiene la tabla
-const url = 'https://es.wikipedia.org/wiki/Anexo:Municipios_de_Campeche';
+const url = 'https://es.wikipedia.org/wiki/Anexo:Municipios_de_Michoac%C3%A1n';
 extractTableData(url);

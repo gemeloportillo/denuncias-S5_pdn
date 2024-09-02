@@ -1,0 +1,454 @@
+[
+  {
+    "id": "001",
+    "municipio": "Acuitzio"
+  },
+  {
+    "id": "002",
+    "municipio": "Aguililla"
+  },
+  {
+    "id": "003",
+    "municipio": "Álvaro Obregón"
+  },
+  {
+    "id": "004",
+    "municipio": "Angamacutiro"
+  },
+  {
+    "id": "005",
+    "municipio": "Angangueo"
+  },
+  {
+    "id": "006",
+    "municipio": "Apatzingán"
+  },
+  {
+    "id": "007",
+    "municipio": "Aporo"
+  },
+  {
+    "id": "008",
+    "municipio": "Aquila"
+  },
+  {
+    "id": "009",
+    "municipio": "Ario"
+  },
+  {
+    "id": "010",
+    "municipio": "Arteaga"
+  },
+  {
+    "id": "011",
+    "municipio": "Briseñas"
+  },
+  {
+    "id": "012",
+    "municipio": "Buenavista"
+  },
+  {
+    "id": "013",
+    "municipio": "Carácuaro"
+  },
+  {
+    "id": "014",
+    "municipio": "Coahuayana"
+  },
+  {
+    "id": "015",
+    "municipio": "Coalcomán de Vázquez Pallares"
+  },
+  {
+    "id": "016",
+    "municipio": "Coeneo"
+  },
+  {
+    "id": "017",
+    "municipio": "Contepec"
+  },
+  {
+    "id": "018",
+    "municipio": "Copándaro"
+  },
+  {
+    "id": "019",
+    "municipio": "Cotija"
+  },
+  {
+    "id": "020",
+    "municipio": "Cuitzeo"
+  },
+  {
+    "id": "021",
+    "municipio": "Charapan"
+  },
+  {
+    "id": "022",
+    "municipio": "Charo"
+  },
+  {
+    "id": "023",
+    "municipio": "Chavinda"
+  },
+  {
+    "id": "024",
+    "municipio": "Cherán"
+  },
+  {
+    "id": "025",
+    "municipio": "Chilchota"
+  },
+  {
+    "id": "026",
+    "municipio": "Chinicuila"
+  },
+  {
+    "id": "027",
+    "municipio": "Chucándiro"
+  },
+  {
+    "id": "028",
+    "municipio": "Churintzio"
+  },
+  {
+    "id": "029",
+    "municipio": "Churumuco"
+  },
+  {
+    "id": "030",
+    "municipio": "Ecuandureo"
+  },
+  {
+    "id": "031",
+    "municipio": "Epitacio Huerta"
+  },
+  {
+    "id": "032",
+    "municipio": "Erongarícuaro"
+  },
+  {
+    "id": "033",
+    "municipio": "Gabriel Zamora"
+  },
+  {
+    "id": "034",
+    "municipio": "Hidalgo"
+  },
+  {
+    "id": "035",
+    "municipio": "La Huacana"
+  },
+  {
+    "id": "036",
+    "municipio": "Huandacareo"
+  },
+  {
+    "id": "037",
+    "municipio": "Huaniqueo"
+  },
+  {
+    "id": "038",
+    "municipio": "Huetamo"
+  },
+  {
+    "id": "039",
+    "municipio": "Huiramba"
+  },
+  {
+    "id": "040",
+    "municipio": "Indaparapeo"
+  },
+  {
+    "id": "041",
+    "municipio": "Irimbo"
+  },
+  {
+    "id": "042",
+    "municipio": "Ixtlán"
+  },
+  {
+    "id": "043",
+    "municipio": "Jacona"
+  },
+  {
+    "id": "044",
+    "municipio": "Jiménez"
+  },
+  {
+    "id": "045",
+    "municipio": "Jiquilpan"
+  },
+  {
+    "id": "046",
+    "municipio": "Juárez"
+  },
+  {
+    "id": "047",
+    "municipio": "Jungapeo"
+  },
+  {
+    "id": "048",
+    "municipio": "Lagunillas"
+  },
+  {
+    "id": "049",
+    "municipio": "Madero"
+  },
+  {
+    "id": "050",
+    "municipio": "Maravatío"
+  },
+  {
+    "id": "051",
+    "municipio": "Marcos Castellanos"
+  },
+  {
+    "id": "052",
+    "municipio": "Lázaro Cárdenas"
+  },
+  {
+    "id": "053",
+    "municipio": "Morelia"
+  },
+  {
+    "id": "054",
+    "municipio": "Morelos"
+  },
+  {
+    "id": "055",
+    "municipio": "Múgica"
+  },
+  {
+    "id": "056",
+    "municipio": "Nahuatzen"
+  },
+  {
+    "id": "057",
+    "municipio": "Nocupétaro"
+  },
+  {
+    "id": "058",
+    "municipio": "Nuevo Parangaricutiro"
+  },
+  {
+    "id": "059",
+    "municipio": "Nuevo Urecho"
+  },
+  {
+    "id": "060",
+    "municipio": "Numarán"
+  },
+  {
+    "id": "061",
+    "municipio": "Ocampo"
+  },
+  {
+    "id": "062",
+    "municipio": "Pajacuarán"
+  },
+  {
+    "id": "063",
+    "municipio": "Panindícuaro"
+  },
+  {
+    "id": "064",
+    "municipio": "Parácuaro"
+  },
+  {
+    "id": "065",
+    "municipio": "Paracho"
+  },
+  {
+    "id": "066",
+    "municipio": "Pátzcuaro"
+  },
+  {
+    "id": "067",
+    "municipio": "Penjamillo"
+  },
+  {
+    "id": "068",
+    "municipio": "Peribán"
+  },
+  {
+    "id": "069",
+    "municipio": "La Piedad"
+  },
+  {
+    "id": "070",
+    "municipio": "Purépero"
+  },
+  {
+    "id": "071",
+    "municipio": "Puruándiro"
+  },
+  {
+    "id": "072",
+    "municipio": "Queréndaro"
+  },
+  {
+    "id": "073",
+    "municipio": "Quiroga"
+  },
+  {
+    "id": "074",
+    "municipio": "Cojumatlán de Régules"
+  },
+  {
+    "id": "075",
+    "municipio": "Los Reyes"
+  },
+  {
+    "id": "076",
+    "municipio": "Sahuayo"
+  },
+  {
+    "id": "077",
+    "municipio": "San Lucas"
+  },
+  {
+    "id": "078",
+    "municipio": "Santa Ana Maya"
+  },
+  {
+    "id": "079",
+    "municipio": "Salvador Escalante"
+  },
+  {
+    "id": "080",
+    "municipio": "Senguio"
+  },
+  {
+    "id": "081",
+    "municipio": "Susupuato"
+  },
+  {
+    "id": "082",
+    "municipio": "Tacámbaro"
+  },
+  {
+    "id": "083",
+    "municipio": "Tancítaro"
+  },
+  {
+    "id": "084",
+    "municipio": "Tangamandapio"
+  },
+  {
+    "id": "085",
+    "municipio": "Tangancícuaro"
+  },
+  {
+    "id": "086",
+    "municipio": "Tanhuato"
+  },
+  {
+    "id": "087",
+    "municipio": "Taretan"
+  },
+  {
+    "id": "088",
+    "municipio": "Tarímbaro"
+  },
+  {
+    "id": "089",
+    "municipio": "Tepalcatepec"
+  },
+  {
+    "id": "090",
+    "municipio": "Tingambato"
+  },
+  {
+    "id": "091",
+    "municipio": "Tingüindín"
+  },
+  {
+    "id": "092",
+    "municipio": "Tiquicheo de Nicolás Romero"
+  },
+  {
+    "id": "093",
+    "municipio": "Tlalpujahua"
+  },
+  {
+    "id": "094",
+    "municipio": "Tlazazalca"
+  },
+  {
+    "id": "095",
+    "municipio": "Tocumbo"
+  },
+  {
+    "id": "096",
+    "municipio": "Tumbiscatío"
+  },
+  {
+    "id": "097",
+    "municipio": "Turicato"
+  },
+  {
+    "id": "098",
+    "municipio": "Tuxpan"
+  },
+  {
+    "id": "099",
+    "municipio": "Tuzantla"
+  },
+  {
+    "id": "100",
+    "municipio": "Tzintzuntzan"
+  },
+  {
+    "id": "101",
+    "municipio": "Tzitzio"
+  },
+  {
+    "id": "102",
+    "municipio": "Uruapan"
+  },
+  {
+    "id": "103",
+    "municipio": "Venustiano Carranza"
+  },
+  {
+    "id": "104",
+    "municipio": "Villamar"
+  },
+  {
+    "id": "105",
+    "municipio": "Vista Hermosa"
+  },
+  {
+    "id": "106",
+    "municipio": "Yurécuaro"
+  },
+  {
+    "id": "107",
+    "municipio": "Zacapu"
+  },
+  {
+    "id": "108",
+    "municipio": "Zamora"
+  },
+  {
+    "id": "109",
+    "municipio": "Zináparo"
+  },
+  {
+    "id": "110",
+    "municipio": "Zinapécuaro"
+  },
+  {
+    "id": "111",
+    "municipio": "Ziracuaretiro"
+  },
+  {
+    "id": "112",
+    "municipio": "Zitácuaro"
+  },
+  {
+    "id": "113",
+    "municipio": "José Sixto Verduzco"
+  }
+]

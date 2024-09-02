@@ -3,27 +3,21 @@ const path = require('path');
 const jsdom = require('jsdom');
 const { JSDOM } = jsdom;
 
-// Define las rutas a los archivos
-const jsonFile = 'imgs/estados/jsonFiles/municipios_sonora.json'; // Cambia esto al archivo JSON que quieras procesar
-const svgFile = 'imgs/estados/svg/26_sonora.svg'; // Cambia esto al archivo SVG que quieras procesar
-const processedDirectory = 'imgs/estados/yaProcesados';
+// Define la ruta al archivo SVG que deseas procesar
+const svgFilePath = 'imgs/estados/porProcesar/26_sonora.svg';
 
-// Lee el archivo JSON
-const jsonData = JSON.parse(fs.readFileSync(jsonFile, 'utf8'));
+// Define la ruta al directorio donde deseas guardar el archivo procesado
+const outputDirectory = 'imgs/estados/svg/';
 
-// Convierte el JSON en un objeto con los IDs como claves para acceso rápido
-const municipiosMap = {};
-jsonData.forEach(item => {
-    municipiosMap[item.id] = item.municipio;
-});
-
-// Imprime los datos del JSON para verificar
-console.log('Datos del JSON:', municipiosMap);
+// Asegúrate de que el directorio de salida exista
+if (!fs.existsSync(outputDirectory)) {
+    fs.mkdirSync(outputDirectory, { recursive: true });
+}
 
 // Lee el archivo SVG
-fs.readFile(svgFile, 'utf8', (err, data) => {
+fs.readFile(svgFilePath, 'utf8', function(err, data) {
     if (err) {
-        console.error('No se pudo leer el archivo SVG:', err);
+        console.error('No se pudo leer el archivo:', err);
         return;
     }
 
@@ -36,16 +30,10 @@ fs.readFile(svgFile, 'utf8', (err, data) => {
 
     // Agrega los atributos a cada elemento al principio
     paths.forEach((path) => {
-        const id = path.getAttribute('id');
-        const municipio = municipiosMap[id] || '';
-        
-        // Mensaje de depuración
-        console.log(`ID: ${id}, Municipio: ${municipio}`);
-
         const attributes = {
-            'id': id || '',
+            'id': path.getAttribute('id') || '',
             'data-bs-toggle': 'tooltip',
-            'data-bs-title': municipio
+            'data-bs-title': 'Calkiní'
         };
 
         // Elimina los atributos si existen
@@ -65,13 +53,15 @@ fs.readFile(svgFile, 'utf8', (err, data) => {
         path.replaceWith(newPath);
     });
 
-    // Escribe el SVG modificado en el directorio de procesados
-    const processedPath = path.join(processedDirectory, path.basename(svgFile));
-    fs.writeFile(processedPath, dom.serialize(), (err) => {
+    // Define la ruta completa del archivo de salida
+    const outputFilePath = path.join(outputDirectory, path.basename(svgFilePath));
+
+    // Escribe el SVG modificado en el archivo de salida
+    fs.writeFile(outputFilePath, dom.serialize(), function(err) {
         if (err) {
             console.error('No se pudo escribir en el archivo:', err);
         } else {
-            console.log('SVG modificado con éxito:', path.basename(svgFile));
+            console.log('SVG modificado con éxito:', outputFilePath);
         }
     });
 });
