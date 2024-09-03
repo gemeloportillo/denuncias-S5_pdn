@@ -28,7 +28,7 @@ fs.readFile(svgFile, 'utf8', (err, data) => {
     }
 
     // Crea un DOM a partir del SVG
-    const dom = new JSDOM(data);
+    const dom = new JSDOM(data, { contentType: 'image/svg+xml' });
     const document = dom.window.document;
 
     // Selecciona todos los elementos <path> y <g>
@@ -42,32 +42,14 @@ fs.readFile(svgFile, 'utf8', (err, data) => {
         // Mensaje de depuración
         console.log(`ID: ${id}, Municipio: ${municipio}`);
 
-        const attributes = {
-            'id': id || '',
-            'data-bs-toggle': 'tooltip',
-            'data-bs-title': municipio
-        };
-
-        // Elimina los atributos si existen
-        Object.keys(attributes).forEach(attr => path.removeAttribute(attr));
-
-        // Crea un nuevo elemento con los atributos al principio
-        const newPath = document.createElement(path.tagName);
-        Object.keys(attributes).forEach(attr => newPath.setAttribute(attr, attributes[attr]));
-
-        // Copia todos los atributos restantes
-        Array.from(path.attributes).forEach(attr => newPath.setAttribute(attr.name, attr.value));
-
-        // Copia el contenido del elemento original
-        newPath.innerHTML = path.innerHTML;
-
-        // Reemplaza el elemento original con el nuevo
-        path.replaceWith(newPath);
+        // Agrega los atributos directamente al elemento existente
+        path.setAttribute('data-bs-toggle', 'tooltip');
+        path.setAttribute('data-bs-title', municipio);
     });
 
     // Escribe el SVG modificado en el directorio de procesados
     const processedPath = path.join(processedDirectory, path.basename(svgFile));
-    fs.writeFile(processedPath, dom.serialize(), (err) => {
+    fs.writeFile(processedPath, document.querySelector('svg').outerHTML, (err) => {
         if (err) {
             console.error('No se pudo escribir en el archivo:', err);
         } else {
