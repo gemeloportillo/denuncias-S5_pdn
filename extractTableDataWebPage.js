@@ -32,7 +32,7 @@ async function extractTableData(url) {
         });
 
         // Guardar los datos en un archivo JSON
-        fs.writeFileSync('municipios_michoacan.json', JSON.stringify(data, null, 2));
+        fs.writeFileSync('municipios_chiapas.json', JSON.stringify(data, null, 2));
         console.log('Datos extraídos y guardados en municipios_campeche.json');
     } catch (error) {
         console.error('Error al extraer los datos de la tabla:', error);
@@ -40,5 +40,5 @@ async function extractTableData(url) {
 }
 
 // URL de la página web que contiene la tabla
-const url = 'https://es.wikipedia.org/wiki/Anexo:Municipios_de_Michoac%C3%A1n';
+const url = 'https://es.wikipedia.org/wiki/Anexo:Municipios_de_Chiapas';
 extractTableData(url);
