@@ -1,5 +1,6 @@
 const jsdom = require('jsdom');
 const fs = require('fs');
+const path = require('path');
 const { JSDOM } = jsdom;
 
 async function extractTableData(url) {
@@ -24,16 +25,23 @@ async function extractTableData(url) {
         const data = [];
         rows.forEach(row => {
             const cells = row.querySelectorAll('td');
-            if (cells.length === 8) { // Asegurarse de que la fila tiene 8 columnas
-                const inegiKey = cells[0].textContent.trim();
-                const municipio = cells[2].textContent.trim();
-                data.push({ inegiKey, municipio });
+            if (cells.length === 7) { // Asegurarse de que la fila tiene 8 columnas
+                const id = cells[0].textContent.trim();
+                const municipio = cells[1].textContent.trim();
+                data.push({ id, municipio });
             }
         });
 
+        // Crear todas las carpetas necesarias en la ruta
+        const carpeta = path.join('imgs', 'estados', 'jsonFiles');
+        fs.mkdirSync(carpeta, { recursive: true });
+
+        // Ruta completa del archivo
+        const rutaArchivo = path.join(carpeta, 'municipios_chiapas.json');
+
         // Guardar los datos en un archivo JSON
-        fs.writeFileSync('municipios_chiapas.json', JSON.stringify(data, null, 2));
-        console.log('Datos extraídos y guardados en municipios_campeche.json');
+        fs.writeFileSync(rutaArchivo, JSON.stringify(data, null, 2));
+        console.log(`Datos extraídos y guardados en ${rutaArchivo}`);
     } catch (error) {
         console.error('Error al extraer los datos de la tabla:', error);
     }

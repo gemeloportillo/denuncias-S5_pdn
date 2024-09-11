@@ -1,0 +1,498 @@
+[
+  {
+    "id": "001",
+    "municipio": "Acacoyagua"
+  },
+  {
+    "id": "002",
+    "municipio": "Acala"
+  },
+  {
+    "id": "003",
+    "municipio": "Acapetahua"
+  },
+  {
+    "id": "004",
+    "municipio": "Altamirano"
+  },
+  {
+    "id": "005",
+    "municipio": "Amatán"
+  },
+  {
+    "id": "006",
+    "municipio": "Amatenango de la Frontera"
+  },
+  {
+    "id": "007",
+    "municipio": "Amatenango del Valle"
+  },
+  {
+    "id": "008",
+    "municipio": "Ángel Albino Corzo"
+  },
+  {
+    "id": "009",
+    "municipio": "Arriaga"
+  },
+  {
+    "id": "010",
+    "municipio": "Bejucal de Ocampo"
+  },
+  {
+    "id": "011",
+    "municipio": "Bella Vista"
+  },
+  {
+    "id": "012",
+    "municipio": "Berriozábal"
+  },
+  {
+    "id": "013",
+    "municipio": "Bochil"
+  },
+  {
+    "id": "014",
+    "municipio": "El Bosque"
+  },
+  {
+    "id": "015",
+    "municipio": "Cacahoatán"
+  },
+  {
+    "id": "016",
+    "municipio": "Catazajá"
+  },
+  {
+    "id": "017",
+    "municipio": "Cintalapa"
+  },
+  {
+    "id": "018",
+    "municipio": "Coapilla"
+  },
+  {
+    "id": "019",
+    "municipio": "Comitán de Domínguez"
+  },
+  {
+    "id": "020",
+    "municipio": "La Concordia"
+  },
+  {
+    "id": "021",
+    "municipio": "Copainalá"
+  },
+  {
+    "id": "022",
+    "municipio": "Chalchihuitán"
+  },
+  {
+    "id": "023",
+    "municipio": "Chamula"
+  },
+  {
+    "id": "024",
+    "municipio": "Chanal"
+  },
+  {
+    "id": "025",
+    "municipio": "Chapultenango"
+  },
+  {
+    "id": "026",
+    "municipio": "Chenalhó"
+  },
+  {
+    "id": "027",
+    "municipio": "Chiapa de Corzo"
+  },
+  {
+    "id": "028",
+    "municipio": "Chiapilla"
+  },
+  {
+    "id": "029",
+    "municipio": "Chicoasén"
+  },
+  {
+    "id": "030",
+    "municipio": "Chicomuselo"
+  },
+  {
+    "id": "031",
+    "municipio": "Chilón"
+  },
+  {
+    "id": "032",
+    "municipio": "Escuintla"
+  },
+  {
+    "id": "033",
+    "municipio": "Francisco León"
+  },
+  {
+    "id": "034",
+    "municipio": "Frontera Comalapa"
+  },
+  {
+    "id": "035",
+    "municipio": "Frontera Hidalgo"
+  },
+  {
+    "id": "036",
+    "municipio": "La Grandeza"
+  },
+  {
+    "id": "037",
+    "municipio": "Huehuetán"
+  },
+  {
+    "id": "038",
+    "municipio": "Huixtán"
+  },
+  {
+    "id": "039",
+    "municipio": "Huitiupán"
+  },
+  {
+    "id": "040",
+    "municipio": "Huixtla"
+  },
+  {
+    "id": "041",
+    "municipio": "La Independencia"
+  },
+  {
+    "id": "042",
+    "municipio": "Ixhuatán"
+  },
+  {
+    "id": "043",
+    "municipio": "Ixtacomitán"
+  },
+  {
+    "id": "044",
+    "municipio": "Ixtapa"
+  },
+  {
+    "id": "045",
+    "municipio": "Ixtapangajoya"
+  },
+  {
+    "id": "046",
+    "municipio": "Jiquipilas"
+  },
+  {
+    "id": "047",
+    "municipio": "Jitotol"
+  },
+  {
+    "id": "048",
+    "municipio": "Juárez"
+  },
+  {
+    "id": "049",
+    "municipio": "Larráinzar"
+  },
+  {
+    "id": "050",
+    "municipio": "La Libertad"
+  },
+  {
+    "id": "051",
+    "municipio": "Mapastepec"
+  },
+  {
+    "id": "052",
+    "municipio": "Las Margaritas"
+  },
+  {
+    "id": "053",
+    "municipio": "Mazapa de Madero"
+  },
+  {
+    "id": "054",
+    "municipio": "Mazatán"
+  },
+  {
+    "id": "055",
+    "municipio": "Metapa"
+  },
+  {
+    "id": "056",
+    "municipio": "Mitontic"
+  },
+  {
+    "id": "057",
+    "municipio": "Motozintla"
+  },
+  {
+    "id": "058",
+    "municipio": "Nicolás Ruiz"
+  },
+  {
+    "id": "059",
+    "municipio": "Ocosingo"
+  },
+  {
+    "id": "060",
+    "municipio": "Ocotepec"
+  },
+  {
+    "id": "061",
+    "municipio": "Ocozocoautla de Espinosa"
+  },
+  {
+    "id": "062",
+    "municipio": "Ostuacán"
+  },
+  {
+    "id": "063",
+    "municipio": "Osumacinta"
+  },
+  {
+    "id": "064",
+    "municipio": "Oxchuc"
+  },
+  {
+    "id": "065",
+    "municipio": "Palenque"
+  },
+  {
+    "id": "066",
+    "municipio": "Pantelhó"
+  },
+  {
+    "id": "067",
+    "municipio": "Pantepec"
+  },
+  {
+    "id": "068",
+    "municipio": "Pichucalco"
+  },
+  {
+    "id": "069",
+    "municipio": "Pijijiapan"
+  },
+  {
+    "id": "070",
+    "municipio": "El Porvenir"
+  },
+  {
+    "id": "071",
+    "municipio": "Villa Comaltitlán"
+  },
+  {
+    "id": "072",
+    "municipio": "Pueblo Nuevo Solistahuacán"
+  },
+  {
+    "id": "073",
+    "municipio": "Rayón"
+  },
+  {
+    "id": "074",
+    "municipio": "Reforma"
+  },
+  {
+    "id": "075",
+    "municipio": "Las Rosas"
+  },
+  {
+    "id": "076",
+    "municipio": "Sabanilla"
+  },
+  {
+    "id": "077",
+    "municipio": "Salto de Agua"
+  },
+  {
+    "id": "078",
+    "municipio": "San Cristóbal de las Casas"
+  },
+  {
+    "id": "079",
+    "municipio": "San Fernando"
+  },
+  {
+    "id": "080",
+    "municipio": "Siltepec"
+  },
+  {
+    "id": "081",
+    "municipio": "Simojovel"
+  },
+  {
+    "id": "082",
+    "municipio": "Sitalá"
+  },
+  {
+    "id": "083",
+    "municipio": "Socoltenango"
+  },
+  {
+    "id": "084",
+    "municipio": "Solosuchiapa"
+  },
+  {
+    "id": "085",
+    "municipio": "Soyaló"
+  },
+  {
+    "id": "086",
+    "municipio": "Suchiapa"
+  },
+  {
+    "id": "087",
+    "municipio": "Suchiate"
+  },
+  {
+    "id": "088",
+    "municipio": "Sunuapa"
+  },
+  {
+    "id": "089",
+    "municipio": "Tapachula"
+  },
+  {
+    "id": "090",
+    "municipio": "Tapalapa"
+  },
+  {
+    "id": "091",
+    "municipio": "Tapilula"
+  },
+  {
+    "id": "092",
+    "municipio": "Tecpatán"
+  },
+  {
+    "id": "093",
+    "municipio": "Tenejapa"
+  },
+  {
+    "id": "094",
+    "municipio": "Teopisca"
+  },
+  {
+    "id": "096",
+    "municipio": "Tila"
+  },
+  {
+    "id": "097",
+    "municipio": "Tonalá"
+  },
+  {
+    "id": "098",
+    "municipio": "Totolapa"
+  },
+  {
+    "id": "099",
+    "municipio": "La Trinitaria"
+  },
+  {
+    "id": "100",
+    "municipio": "Tumbalá"
+  },
+  {
+    "id": "101",
+    "municipio": "Tuxtla Gutiérrez"
+  },
+  {
+    "id": "102",
+    "municipio": "Tuxtla Chico"
+  },
+  {
+    "id": "103",
+    "municipio": "Tuzantán"
+  },
+  {
+    "id": "104",
+    "municipio": "Tzimol"
+  },
+  {
+    "id": "105",
+    "municipio": "Unión Juárez"
+  },
+  {
+    "id": "106",
+    "municipio": "Venustiano Carranza"
+  },
+  {
+    "id": "107",
+    "municipio": "Villa Corzo"
+  },
+  {
+    "id": "108",
+    "municipio": "Villaflores"
+  },
+  {
+    "id": "109",
+    "municipio": "Yajalón"
+  },
+  {
+    "id": "110",
+    "municipio": "San Lucas"
+  },
+  {
+    "id": "111",
+    "municipio": "Zinacantán"
+  },
+  {
+    "id": "112",
+    "municipio": "San Juan Cancuc"
+  },
+  {
+    "id": "113",
+    "municipio": "Aldama"
+  },
+  {
+    "id": "114",
+    "municipio": "Benemérito de las Américas"
+  },
+  {
+    "id": "115",
+    "municipio": "Maravilla Tenejapa"
+  },
+  {
+    "id": "116",
+    "municipio": "Marqués de Comillas"
+  },
+  {
+    "id": "117",
+    "municipio": "Montecristo de Guerrero"
+  },
+  {
+    "id": "118",
+    "municipio": "San Andrés Duraznal"
+  },
+  {
+    "id": "119",
+    "municipio": "Santiago el Pinar"
+  },
+  {
+    "id": "120",
+    "municipio": "Capitán Luis Ángel Vidal"
+  },
+  {
+    "id": "121",
+    "municipio": "Rincón Chamula San Pedro"
+  },
+  {
+    "id": "122",
+    "municipio": "El Parral"
+  },
+  {
+    "id": "123",
+    "municipio": "Emiliano Zapata"
+  },
+  {
+    "id": "124",
+    "municipio": "Mezcalapa"
+  },
+  {
+    "id": "125",
+    "municipio": "Honduras de la Sierra"
+  }
+]
