@@ -4,8 +4,8 @@ const jsdom = require('jsdom');
 const { JSDOM } = jsdom;
 
 // Define las rutas a los archivos
-const jsonFile = 'imgs/estados/jsonFiles/municipios_puebla.json'; // Cambia esto al archivo JSON que quieras procesar
-const svgFile = 'imgs/estados/svg/21_puebla.svg'; // Cambia esto al archivo SVG que quieras procesar
+const jsonFile = 'imgs/estados/jsonFiles/municipios_cdmx.json'; // Cambia esto al archivo JSON que quieras procesar
+const svgFile = 'imgs/estados/svg/09_CDMX.svg'; // Cambia esto al archivo SVG que quieras procesar
 const processedDirectory = 'imgs/estados/yaProcesados';
 
 // Lee el archivo JSON

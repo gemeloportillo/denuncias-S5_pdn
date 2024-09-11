@@ -4,7 +4,7 @@ const jsdom = require('jsdom');
 const { JSDOM } = jsdom;
 
 // Define la ruta al archivo SVG que deseas procesar
-const svgFilePath = 'imgs/estados/porProcesar/21_puebla.svg';
+const svgFilePath = 'imgs/estados/porProcesar/09_CDMX.svg';
 
 // Define la ruta al directorio donde deseas guardar el archivo procesado
 const outputDirectory = 'imgs/estados/svg/';
