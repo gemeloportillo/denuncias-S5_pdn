@@ -1,0 +1,502 @@
+[
+  {
+    "id": "001",
+    "municipio": "Acambay de Ruiz Castañeda"
+  },
+  {
+    "id": "002",
+    "municipio": "Acolman"
+  },
+  {
+    "id": "003",
+    "municipio": "Aculco"
+  },
+  {
+    "id": "004",
+    "municipio": "Almoloya de Alquisiras"
+  },
+  {
+    "id": "005",
+    "municipio": "Almoloya de Juárez"
+  },
+  {
+    "id": "006",
+    "municipio": "Almoloya del Río"
+  },
+  {
+    "id": "007",
+    "municipio": "Amanalco"
+  },
+  {
+    "id": "008",
+    "municipio": "Amatepec"
+  },
+  {
+    "id": "009",
+    "municipio": "Amecameca"
+  },
+  {
+    "id": "010",
+    "municipio": "Apaxco"
+  },
+  {
+    "id": "011",
+    "municipio": "Atenco"
+  },
+  {
+    "id": "012",
+    "municipio": "Atizapán"
+  },
+  {
+    "id": "013",
+    "municipio": "Atizapán de Zaragoza"
+  },
+  {
+    "id": "014",
+    "municipio": "Atlacomulco"
+  },
+  {
+    "id": "015",
+    "municipio": "Atlautla"
+  },
+  {
+    "id": "016",
+    "municipio": "Axapusco"
+  },
+  {
+    "id": "017",
+    "municipio": "Ayapango"
+  },
+  {
+    "id": "018",
+    "municipio": "Calimaya"
+  },
+  {
+    "id": "019",
+    "municipio": "Capulhuac"
+  },
+  {
+    "id": "020",
+    "municipio": "Coacalco de Berriozábal"
+  },
+  {
+    "id": "021",
+    "municipio": "Coatepec Harinas"
+  },
+  {
+    "id": "022",
+    "municipio": "Cocotitlán"
+  },
+  {
+    "id": "023",
+    "municipio": "Coyotepec"
+  },
+  {
+    "id": "024",
+    "municipio": "Cuautitlán"
+  },
+  {
+    "id": "025",
+    "municipio": "Chalco"
+  },
+  {
+    "id": "026",
+    "municipio": "Chapa de Mota"
+  },
+  {
+    "id": "027",
+    "municipio": "Chapultepec"
+  },
+  {
+    "id": "028",
+    "municipio": "Chiautla"
+  },
+  {
+    "id": "029",
+    "municipio": "Chicoloapan"
+  },
+  {
+    "id": "030",
+    "municipio": "Chiconcuac"
+  },
+  {
+    "id": "031",
+    "municipio": "Chimalhuacán"
+  },
+  {
+    "id": "032",
+    "municipio": "Donato Guerra"
+  },
+  {
+    "id": "033",
+    "municipio": "Ecatepec de Morelos"
+  },
+  {
+    "id": "034",
+    "municipio": "Ecatzingo"
+  },
+  {
+    "id": "035",
+    "municipio": "Huehuetoca"
+  },
+  {
+    "id": "036",
+    "municipio": "Hueypoxtla"
+  },
+  {
+    "id": "037",
+    "municipio": "Huixquilucan"
+  },
+  {
+    "id": "038",
+    "municipio": "Isidro Fabela"
+  },
+  {
+    "id": "039",
+    "municipio": "Ixtapaluca"
+  },
+  {
+    "id": "040",
+    "municipio": "Ixtapan de la Sal"
+  },
+  {
+    "id": "041",
+    "municipio": "Ixtapan del Oro"
+  },
+  {
+    "id": "042",
+    "municipio": "Ixtlahuaca"
+  },
+  {
+    "id": "043",
+    "municipio": "Xalatlaco"
+  },
+  {
+    "id": "044",
+    "municipio": "Jaltenco"
+  },
+  {
+    "id": "045",
+    "municipio": "Jilotepec"
+  },
+  {
+    "id": "046",
+    "municipio": "Jilotzingo"
+  },
+  {
+    "id": "047",
+    "municipio": "Jiquipilco"
+  },
+  {
+    "id": "048",
+    "municipio": "Jocotitlán"
+  },
+  {
+    "id": "049",
+    "municipio": "Joquicingo"
+  },
+  {
+    "id": "050",
+    "municipio": "Juchitepec"
+  },
+  {
+    "id": "051",
+    "municipio": "Lerma"
+  },
+  {
+    "id": "052",
+    "municipio": "Malinalco"
+  },
+  {
+    "id": "053",
+    "municipio": "Melchor Ocampo"
+  },
+  {
+    "id": "054",
+    "municipio": "Metepec"
+  },
+  {
+    "id": "055",
+    "municipio": "Mexicaltzingo"
+  },
+  {
+    "id": "056",
+    "municipio": "Morelos"
+  },
+  {
+    "id": "057",
+    "municipio": "Naucalpan de Juárez"
+  },
+  {
+    "id": "058",
+    "municipio": "Nezahualcóyotl"
+  },
+  {
+    "id": "059",
+    "municipio": "Nextlalpan"
+  },
+  {
+    "id": "060",
+    "municipio": "Nicolás Romero"
+  },
+  {
+    "id": "061",
+    "municipio": "Nopaltepec"
+  },
+  {
+    "id": "062",
+    "municipio": "Ocoyoacac"
+  },
+  {
+    "id": "063",
+    "municipio": "Ocuilan"
+  },
+  {
+    "id": "064",
+    "municipio": "El Oro"
+  },
+  {
+    "id": "065",
+    "municipio": "Otumba"
+  },
+  {
+    "id": "066",
+    "municipio": "Otzoloapan"
+  },
+  {
+    "id": "067",
+    "municipio": "Otzolotepec"
+  },
+  {
+    "id": "068",
+    "municipio": "Ozumba"
+  },
+  {
+    "id": "069",
+    "municipio": "Papalotla"
+  },
+  {
+    "id": "070",
+    "municipio": "La Paz"
+  },
+  {
+    "id": "071",
+    "municipio": "Polotitlán"
+  },
+  {
+    "id": "072",
+    "municipio": "Rayón"
+  },
+  {
+    "id": "073",
+    "municipio": "San Antonio la Isla"
+  },
+  {
+    "id": "074",
+    "municipio": "San Felipe del Progreso"
+  },
+  {
+    "id": "075",
+    "municipio": "San Martín de las Pirámides"
+  },
+  {
+    "id": "076",
+    "municipio": "San Mateo Atenco"
+  },
+  {
+    "id": "077",
+    "municipio": "San Simón de Guerrero"
+  },
+  {
+    "id": "078",
+    "municipio": "Santo Tomás"
+  },
+  {
+    "id": "079",
+    "municipio": "Soyaniquilpan de Juárez"
+  },
+  {
+    "id": "080",
+    "municipio": "Sultepec"
+  },
+  {
+    "id": "081",
+    "municipio": "Tecámac"
+  },
+  {
+    "id": "082",
+    "municipio": "Tejupilco"
+  },
+  {
+    "id": "083",
+    "municipio": "Temamatla"
+  },
+  {
+    "id": "084",
+    "municipio": "Temascalapa"
+  },
+  {
+    "id": "085",
+    "municipio": "Temascalcingo"
+  },
+  {
+    "id": "086",
+    "municipio": "Temascaltepec"
+  },
+  {
+    "id": "087",
+    "municipio": "Temoaya"
+  },
+  {
+    "id": "088",
+    "municipio": "Tenancingo"
+  },
+  {
+    "id": "089",
+    "municipio": "Tenango del Aire"
+  },
+  {
+    "id": "090",
+    "municipio": "Tenango del Valle"
+  },
+  {
+    "id": "091",
+    "municipio": "Teoloyucan"
+  },
+  {
+    "id": "092",
+    "municipio": "Teotihuacán"
+  },
+  {
+    "id": "093",
+    "municipio": "Tepetlaoxtoc"
+  },
+  {
+    "id": "094",
+    "municipio": "Tepetlixpa"
+  },
+  {
+    "id": "095",
+    "municipio": "Tepotzotlán"
+  },
+  {
+    "id": "096",
+    "municipio": "Tequixquiac"
+  },
+  {
+    "id": "097",
+    "municipio": "Texcaltitlán"
+  },
+  {
+    "id": "098",
+    "municipio": "Texcalyacac"
+  },
+  {
+    "id": "099",
+    "municipio": "Texcoco"
+  },
+  {
+    "id": "100",
+    "municipio": "Tezoyuca"
+  },
+  {
+    "id": "101",
+    "municipio": "Tianguistenco"
+  },
+  {
+    "id": "102",
+    "municipio": "Timilpan"
+  },
+  {
+    "id": "103",
+    "municipio": "Tlalmanalco"
+  },
+  {
+    "id": "104",
+    "municipio": "Tlalnepantla de Baz"
+  },
+  {
+    "id": "105",
+    "municipio": "Tlatlaya"
+  },
+  {
+    "id": "106",
+    "municipio": "Toluca"
+  },
+  {
+    "id": "107",
+    "municipio": "Tonatico"
+  },
+  {
+    "id": "108",
+    "municipio": "Tultepec"
+  },
+  {
+    "id": "109",
+    "municipio": "Tultitlán"
+  },
+  {
+    "id": "110",
+    "municipio": "Valle de Bravo"
+  },
+  {
+    "id": "111",
+    "municipio": "Villa de Allende"
+  },
+  {
+    "id": "112",
+    "municipio": "Villa del Carbón"
+  },
+  {
+    "id": "113",
+    "municipio": "Villa Guerrero"
+  },
+  {
+    "id": "114",
+    "municipio": "Villa Victoria"
+  },
+  {
+    "id": "115",
+    "municipio": "Xonacatlán"
+  },
+  {
+    "id": "116",
+    "municipio": "Zacazonapan"
+  },
+  {
+    "id": "117",
+    "municipio": "Zacualpan"
+  },
+  {
+    "id": "118",
+    "municipio": "Zinacantepec"
+  },
+  {
+    "id": "119",
+    "municipio": "Zumpahuacán"
+  },
+  {
+    "id": "120",
+    "municipio": "Zumpango"
+  },
+  {
+    "id": "121",
+    "municipio": "Cuautitlán Izcalli"
+  },
+  {
+    "id": "122",
+    "municipio": "Valle de Chalco Solidaridad"
+  },
+  {
+    "id": "123",
+    "municipio": "Luvianos"
+  },
+  {
+    "id": "124",
+    "municipio": "San José del Rincón"
+  },
+  {
+    "id": "125",
+    "municipio": "Tonanitla"
+  }
+]

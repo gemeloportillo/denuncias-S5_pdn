@@ -1,0 +1,502 @@
+[
+  {
+    "id": "001",
+    "municipio": "Acatic"
+  },
+  {
+    "id": "002",
+    "municipio": "Acatlán de Juárez"
+  },
+  {
+    "id": "003",
+    "municipio": "Ahualulco de Mercado"
+  },
+  {
+    "id": "004",
+    "municipio": "Amacueca"
+  },
+  {
+    "id": "005",
+    "municipio": "Amatitán"
+  },
+  {
+    "id": "006",
+    "municipio": "Ameca"
+  },
+  {
+    "id": "007",
+    "municipio": "San Juanito de Escobedo"
+  },
+  {
+    "id": "008",
+    "municipio": "Arandas"
+  },
+  {
+    "id": "009",
+    "municipio": "El Arenal"
+  },
+  {
+    "id": "010",
+    "municipio": "Atemajac de Brizuela"
+  },
+  {
+    "id": "011",
+    "municipio": "Atengo"
+  },
+  {
+    "id": "012",
+    "municipio": "Atenguillo"
+  },
+  {
+    "id": "013",
+    "municipio": "Atotonilco el Alto"
+  },
+  {
+    "id": "014",
+    "municipio": "Atoyac"
+  },
+  {
+    "id": "015",
+    "municipio": "Autlán de Navarro"
+  },
+  {
+    "id": "016",
+    "municipio": "Ayotlán"
+  },
+  {
+    "id": "017",
+    "municipio": "Ayutla"
+  },
+  {
+    "id": "018",
+    "municipio": "La Barca"
+  },
+  {
+    "id": "019",
+    "municipio": "Bolaños"
+  },
+  {
+    "id": "020",
+    "municipio": "Cabo Corrientes"
+  },
+  {
+    "id": "021",
+    "municipio": "Casimiro Castillo"
+  },
+  {
+    "id": "022",
+    "municipio": "Cihuatlán"
+  },
+  {
+    "id": "023",
+    "municipio": "Zapotlán el Grande"
+  },
+  {
+    "id": "024",
+    "municipio": "Cocula"
+  },
+  {
+    "id": "025",
+    "municipio": "Colotlán"
+  },
+  {
+    "id": "026",
+    "municipio": "Concepción de Buenos Aires"
+  },
+  {
+    "id": "027",
+    "municipio": "Cuautitlán de García Barragán"
+  },
+  {
+    "id": "028",
+    "municipio": "Cuautla"
+  },
+  {
+    "id": "029",
+    "municipio": "Cuquío"
+  },
+  {
+    "id": "030",
+    "municipio": "Chapala"
+  },
+  {
+    "id": "031",
+    "municipio": "Chimaltitán"
+  },
+  {
+    "id": "032",
+    "municipio": "Chiquilistlán"
+  },
+  {
+    "id": "033",
+    "municipio": "Degollado"
+  },
+  {
+    "id": "034",
+    "municipio": "Ejutla"
+  },
+  {
+    "id": "035",
+    "municipio": "Encarnación de Díaz"
+  },
+  {
+    "id": "036",
+    "municipio": "Etzatlán"
+  },
+  {
+    "id": "037",
+    "municipio": "El Grullo"
+  },
+  {
+    "id": "038",
+    "municipio": "Guachinango"
+  },
+  {
+    "id": "039",
+    "municipio": "Guadalajara"
+  },
+  {
+    "id": "040",
+    "municipio": "Hostotipaquillo"
+  },
+  {
+    "id": "041",
+    "municipio": "Huejúcar"
+  },
+  {
+    "id": "042",
+    "municipio": "Huejuquilla el Alto"
+  },
+  {
+    "id": "043",
+    "municipio": "La Huerta"
+  },
+  {
+    "id": "044",
+    "municipio": "Ixtlahuacán de los Membrillos"
+  },
+  {
+    "id": "045",
+    "municipio": "Ixtlahuacán del Río"
+  },
+  {
+    "id": "046",
+    "municipio": "Jalostotitlán"
+  },
+  {
+    "id": "047",
+    "municipio": "Jamay"
+  },
+  {
+    "id": "048",
+    "municipio": "Jesús María"
+  },
+  {
+    "id": "049",
+    "municipio": "Jilotlán de los Dolores"
+  },
+  {
+    "id": "050",
+    "municipio": "Jocotepec"
+  },
+  {
+    "id": "051",
+    "municipio": "Juanacatlán"
+  },
+  {
+    "id": "052",
+    "municipio": "Juchitlán"
+  },
+  {
+    "id": "053",
+    "municipio": "Lagos de Moreno"
+  },
+  {
+    "id": "054",
+    "municipio": "El Limón"
+  },
+  {
+    "id": "055",
+    "municipio": "Magdalena"
+  },
+  {
+    "id": "056",
+    "municipio": "Santa María del Oro"
+  },
+  {
+    "id": "057",
+    "municipio": "La Manzanilla de la Paz"
+  },
+  {
+    "id": "058",
+    "municipio": "Mascota"
+  },
+  {
+    "id": "059",
+    "municipio": "Mazamitla"
+  },
+  {
+    "id": "060",
+    "municipio": "Mexticacán"
+  },
+  {
+    "id": "061",
+    "municipio": "Mezquitic"
+  },
+  {
+    "id": "062",
+    "municipio": "Mixtlán"
+  },
+  {
+    "id": "063",
+    "municipio": "Ocotlán"
+  },
+  {
+    "id": "064",
+    "municipio": "Ojuelos de Jalisco"
+  },
+  {
+    "id": "065",
+    "municipio": "Pihuamo"
+  },
+  {
+    "id": "066",
+    "municipio": "Poncitlán"
+  },
+  {
+    "id": "067",
+    "municipio": "Puerto Vallarta"
+  },
+  {
+    "id": "068",
+    "municipio": "Villa Purificación"
+  },
+  {
+    "id": "069",
+    "municipio": "Quitupan"
+  },
+  {
+    "id": "070",
+    "municipio": "El Salto"
+  },
+  {
+    "id": "071",
+    "municipio": "San Cristóbal de la Barranca"
+  },
+  {
+    "id": "072",
+    "municipio": "San Diego de Alejandría"
+  },
+  {
+    "id": "073",
+    "municipio": "San Juan de los Lagos"
+  },
+  {
+    "id": "074",
+    "municipio": "San Julián"
+  },
+  {
+    "id": "075",
+    "municipio": "San Marcos"
+  },
+  {
+    "id": "076",
+    "municipio": "San Martín de Bolaños"
+  },
+  {
+    "id": "077",
+    "municipio": "San Martín Hidalgo"
+  },
+  {
+    "id": "078",
+    "municipio": "San Miguel el Alto"
+  },
+  {
+    "id": "079",
+    "municipio": "Gómez Farías"
+  },
+  {
+    "id": "080",
+    "municipio": "San Sebastián del Oeste"
+  },
+  {
+    "id": "081",
+    "municipio": "Santa María de los Ángeles"
+  },
+  {
+    "id": "082",
+    "municipio": "Sayula"
+  },
+  {
+    "id": "083",
+    "municipio": "Tala"
+  },
+  {
+    "id": "084",
+    "municipio": "Talpa de Allende"
+  },
+  {
+    "id": "085",
+    "municipio": "Tamazula de Gordiano"
+  },
+  {
+    "id": "086",
+    "municipio": "Tapalpa"
+  },
+  {
+    "id": "087",
+    "municipio": "Tecalitlán"
+  },
+  {
+    "id": "088",
+    "municipio": "Techaluta de Montenegro"
+  },
+  {
+    "id": "089",
+    "municipio": "Tecolotlán"
+  },
+  {
+    "id": "090",
+    "municipio": "Tenamaxtlán"
+  },
+  {
+    "id": "091",
+    "municipio": "Teocaltiche"
+  },
+  {
+    "id": "092",
+    "municipio": "Teocuitatlán de Corona"
+  },
+  {
+    "id": "093",
+    "municipio": "Tepatitlán de Morelos"
+  },
+  {
+    "id": "094",
+    "municipio": "Tequila"
+  },
+  {
+    "id": "095",
+    "municipio": "Teuchitlán"
+  },
+  {
+    "id": "096",
+    "municipio": "Tizapán el Alto"
+  },
+  {
+    "id": "097",
+    "municipio": "Tlajomulco de Zúñiga"
+  },
+  {
+    "id": "098",
+    "municipio": "San Pedro Tlaquepaque"
+  },
+  {
+    "id": "099",
+    "municipio": "Tolimán"
+  },
+  {
+    "id": "100",
+    "municipio": "Tomatlán"
+  },
+  {
+    "id": "101",
+    "municipio": "Tonalá"
+  },
+  {
+    "id": "102",
+    "municipio": "Tonaya"
+  },
+  {
+    "id": "103",
+    "municipio": "Tonila"
+  },
+  {
+    "id": "104",
+    "municipio": "Totatiche"
+  },
+  {
+    "id": "105",
+    "municipio": "Tototlán"
+  },
+  {
+    "id": "106",
+    "municipio": "Tuxcacuesco"
+  },
+  {
+    "id": "107",
+    "municipio": "Tuxcueca"
+  },
+  {
+    "id": "108",
+    "municipio": "Tuxpan"
+  },
+  {
+    "id": "109",
+    "municipio": "Unión de San Antonio"
+  },
+  {
+    "id": "110",
+    "municipio": "Unión de Tula"
+  },
+  {
+    "id": "111",
+    "municipio": "Valle de Guadalupe"
+  },
+  {
+    "id": "112",
+    "municipio": "Valle de Juárez"
+  },
+  {
+    "id": "113",
+    "municipio": "San Gabriel"
+  },
+  {
+    "id": "114",
+    "municipio": "Villa Corona"
+  },
+  {
+    "id": "115",
+    "municipio": "Villa Guerrero"
+  },
+  {
+    "id": "116",
+    "municipio": "Villa Hidalgo"
+  },
+  {
+    "id": "117",
+    "municipio": "Cañadas de Obregón"
+  },
+  {
+    "id": "118",
+    "municipio": "Yahualica de González Gallo"
+  },
+  {
+    "id": "119",
+    "municipio": "Zacoalco de Torres"
+  },
+  {
+    "id": "120",
+    "municipio": "Zapopan"
+  },
+  {
+    "id": "121",
+    "municipio": "Zapotiltic"
+  },
+  {
+    "id": "122",
+    "municipio": "Zapotitlán de Vadillo"
+  },
+  {
+    "id": "123",
+    "municipio": "Zapotlán del Rey"
+  },
+  {
+    "id": "124",
+    "municipio": "Zapotlanejo"
+  },
+  {
+    "id": "125",
+    "municipio": "San Ignacio Cerro Gordo"
+  }
+]

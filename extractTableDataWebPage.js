@@ -37,7 +37,7 @@ async function extractTableData(url) {
         fs.mkdirSync(carpeta, { recursive: true });
 
         // Ruta completa del archivo
-        const rutaArchivo = path.join(carpeta, 'municipios_chiapas.json');
+        const rutaArchivo = path.join(carpeta, 'municipios_oaxaca.json');
 
         // Guardar los datos en un archivo JSON
         fs.writeFileSync(rutaArchivo, JSON.stringify(data, null, 2));
@@ -48,5 +48,5 @@ async function extractTableData(url) {
 }
 
 // URL de la página web que contiene la tabla
-const url = 'https://es.wikipedia.org/wiki/Anexo:Municipios_de_Chiapas';
+const url = 'https://es.wikipedia.org/wiki/Anexo:Municipios_de_Oaxaca';
 extractTableData(url);
